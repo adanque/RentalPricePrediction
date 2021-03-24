@@ -37,7 +37,7 @@ Everyone likes to have a place of their own that they can call home. A place whe
 ## Results
 Under construction
 
-![A remote image](https://github.com/adanque/Building-a-Dashboard-and-Blog-with-Power-Bi/blob/main/AlanDanque-Task1-Airline_Fatality_Trends_Dashboard1024_1.jpg)
+![A remote image](https://adanque.github.io/assets/img/MachineLearning.jpg)
 
 
 References: 
