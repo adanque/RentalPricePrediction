@@ -2,22 +2,37 @@
 Author: Alan Danque
 Date:   20210323
 Purpose:Extracts Yelp Business Data to JSON for NYC Zip Codes
+Yelp Review File Complete Duration: --- 7847.622344970703 seconds ---
 """
+import ast
+import yaml
+from yaml import load, dump
 import requests
 import json
 import os
 import time
+import sys
 from pathlib import Path
 # Working on the Yelp Business Dataset
 start_time = time.time()
-base_dir = "C:/alan/DSC680/Project1Data/YELPDATA/"
+mypath = "C:/alan/DSC680/Project1Data/YELPDATA/"
+yaml_filename = "config.yaml" # sys.argv[2]
+base_dir = Path(mypath)
 appdir = Path(os.path.dirname(base_dir))
+backdir = Path(os.path.dirname(appdir))
+config_path = backdir.joinpath('Config')
+ymlfile = config_path.joinpath(yaml_filename)
+with open(ymlfile, 'r') as stream:
+    try:
+        cfg = yaml.safe_load(stream)
+        csv_filename = cfg["Get_YELP_DATA"].get("csv_filename")
+        api_key = cfg["Get_YELP_DATA"].get("api_key")
+        headers = eval(cfg["Get_YELP_DATA"].get("headers"))
+        url = cfg["Get_YELP_DATA"].get("url")
+        zipcodes = cfg["Get_YELP_DATA"].get("zipcodes")
 
-csv_filename = "yelp_data_business_"
-api_key = 'KEY_REMOVED'
-headers = {'Authorization': 'Bearer %s' % api_key}
-url = 'https://api.yelp.com/v3/businesses/search'
-
+    except yaml.YAMLError as exc:
+        print(exc)
 
 ## creating global empty lists so we don't overwrite them but keep adding data to them
 rating = []
@@ -27,11 +42,13 @@ prices = []
 # Zip Codes for NYC
 # https://worldpostalcode.com/united-states/new-york/new-york-city
 
-zips = ['10001','10002','10003','10004','10005','10006','10007','10008','10009','10010','10011','10012','10013','10014','10016','10017','10018','10019','10020','10021','10022','10023','10024','10025','10026','10027','10028','10029','10030','10031','10032','10033','10034','10035','10036','10037','10038','10039','10040','10041','10043','10044','10045','10055','10060','10065','10069','10075','10080','10081','10087','10090','10101','10102','10103','10104','10105','10106','10107','10108','10109','10110','10111','10112','10113','10114','10115','10116','10117','10118','10119','10120','10121','10122','10123','10124','10125','10126','10128','10129','10130','10131','10132','10133','10138','10150','10151','10152','10153','10154','10155','10156','10157','10158','10159','10160','10161','10162','10163','10164','10165','10166','10167','10168','10169','10170','10171','10172','10173','10174','10175','10176','10177','10178','10179','10185','10199','10203','10211','10212','10213','10242','10249','10256','10258','10259','10260','10261','10265','10268','10269','10270','10271','10272','10273','10274','10275','10276','10277','10278','10279','10280','10281','10282','10285','10286']
+zips = zipcodes.split(",")
 for zip in zips:
     #print(zip)
     offset = 0
-    tgt_dir = appdir.joinpath(zip)
+    YELPDATA = appdir.joinpath('YELPDATA')
+    YELPDATA.mkdir(parents=True, exist_ok=True)
+    tgt_dir = YELPDATA.joinpath(zip)
     tgt_dir.mkdir(parents=True, exist_ok=True)
     print(tgt_dir)
     ## loop to iterate over 200 pages of 50 businesses each = 10000 businesses in Amsterdam
