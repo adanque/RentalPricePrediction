@@ -94,13 +94,18 @@ Package               Version
 Under construction
 
 ## Maps
+
+### Top Employers
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Top_Employers_Heatmap.png?raw=true)
 Heatmap Location for Top Employers In NYC
+
+### RentHop Inventoried Apartments
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_ApartmentLocations_Map.png?raw=true)
 Apartment locations contained in my NYC RentHop dataset. Note: the outliers outside of NYC - these will be removed from my final cleaned dataset.
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_ApartmentLocations_Heatmap.png?raw=true)
 Above is a heatmap of the apartments located in NYC
 
+### Yelp Top Pricing and Highest Rating
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Highest_Priced_Yelp_Businesses_KMeans_Cluster.png?raw=true)
 Plot of the KMeans clusters of Yelp Rated High Priced Businesses
 
@@ -127,7 +132,7 @@ RentHop Apartment Review Level Breakdown
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Interest_Level_Review.png?raw=true)
 RentHop Apartment Review Level Distribution
 
-Bedrooms
+### Bedrooms
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Bedrooms_Breakdown_by_Interest.png?raw=true)
 RentHop Apartment Bedroom Distribution Breakdown
 
@@ -137,14 +142,14 @@ RentHop Apartment Bedroom Distribution Frequency
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Bedrooms_Occurences_Histogram.png?raw=true)
 RentHop Apartment Bedroom Distribution by Interest Level
 
-Bathrooms
+### Bathrooms
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Bathrooms_Occurences_Histogram.png?raw=true)
 RentHop Apartment Bathroom Distribution 
 
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Bathrooms_Occurences_Violin_Chart.png?raw=true)
 RentHop Apartment Violin plot of bathroom by Interest Level
 
-Pricing Reviews
+### Pricing Reviews
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Price_Outlier_Detection_Review.png?raw=true)
 Pricing Outlier Detection
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Price_w90_pct_Max_Price_Excluded.png?raw=true)
