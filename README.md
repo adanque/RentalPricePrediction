@@ -1,6 +1,6 @@
 # New York Apartment Rental Price Prediction
 
-## _Prediction Rental Prices in NYC - !!!Under Construction!!!_
+## _Prediction Rental Prices in NYC - !!!Under Construction - Currently in progress!!!_
 
 <a href="https://www.linkedin.com/in/alandanque"> Author: Alan Danque </a>
 
@@ -22,10 +22,12 @@ Package               Version
 - defusedxml            0.7.1
 - folium                0.12.1
 - geojson               2.5.0
+- geopy                 2.1.0
 - gmaps                 0.9.0
 - gmplot                1.4.1
 - greenlet              1.0.0
 - htmlmin               0.1.12
+- html-parser           0.2
 - ImageHash             4.2.0
 - imgkit                1.1.0
 - importlib-metadata    2.1.1
@@ -72,20 +74,31 @@ Package               Version
 | LoopJson.py | Json Data Conversion to Central CSV |
 | LoopJsonFiles.py | Loop through JSON files, transform and create consolidated CSV | 
 | Pandas_Profiling_Generate_EDA_Reports.py | Quick Descriptive Statistics | 
+| RentHop_EDA_Reviews.py | Preliminary Data Wrangling and EDA review | 
 | TopNYCEmployerMap.py | Map Top NYC Employers | 
 | DistancesToTopNYCEmployers.py | Updates Renthop Apartments with geohashes of the Latitudes and Longitudes | 
 | CalculateDistancesToTopNYCEmployers.py | Updates Distances from the Renthop Apartments to the top employers | 
 | ClusterNYCYelpRatedBusinesses.py | Creates clusters and gets the centers for these kmeans clusters. Using Yelp Highest Ratings and Yelp Most Expensive Restaurants | 
+| FinalDataWranglingEDA.py | Final Data Wrangling, strips html and punctuation. | 
+| NYC_RentHop_ApartmentLocations_Map | Create Map of the locations of the apartments in my master dataset |
+| 
 
 | NYCEmployers.csv | NYC Top Employers - https://fortune.com/best-workplaces-new-york/2020/search/ | 
 | yelp_business_data.csv | NYC Yelp Businesses  | 
 | renthopNYC_Final.csv | FinalDataSet |  
 
 
+
 ## Results
 Under construction
 
 ##Heatmap Location for Top Employers In NYC
+
+
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_ApartmentLocations_Map.png?raw=true)
+Apartment locations contained in my NYC RentHop dataset. Note: the outliers outside of NYC - these will be removed from my final cleaned dataset.
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_ApartmentLocations_Heatmap.png?raw=true)
+Above is a heatmap of the apartments located in NYC
 
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Top_Employers_Heatmap.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Top_Rated_Yelp_Businesses_KMeans_Cluster_Centers.png?raw=true)
