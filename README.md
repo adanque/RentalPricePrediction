@@ -81,12 +81,10 @@ Package               Version
 | ClusterNYCYelpRatedBusinesses.py | Creates clusters and gets the centers for these kmeans clusters. Using Yelp Highest Ratings and Yelp Most Expensive Restaurants | 
 | FinalDataWranglingEDA.py | Final Data Wrangling, strips html and punctuation. | 
 | NYC_RentHop_ApartmentLocations_Map | Create Map of the locations of the apartments in my master dataset |
-| 
-
+| GetZipCode.py | Created to get zipcodes from lat and long so to remove non NYC apartments from the NYC RentHop dataset using a list of valid Zip Codes |
 | NYCEmployers.csv | NYC Top Employers - https://fortune.com/best-workplaces-new-york/2020/search/ | 
 | yelp_business_data.csv | NYC Yelp Businesses  | 
 | renthopNYC_Final.csv | FinalDataSet |  
-
 
 
 ## Results
