@@ -12,6 +12,9 @@ Abstract:
 
 Everyone likes to have a place of their own that they can call home. A place where one can rest, recharge, and relax. A place where a person can safely store their possessions. Finding such a place can be an ordeal no matter if you are a renter, a homeowner, or a landlord. As the price of any type of home is affected by many different factors. The confusing caveats are trying to understand which factors affect the value or rental price. And if the value is credible or just overly bloated to line someone’s pockets. For example, according to investopia.com there are many locations in New York where the price of a 700 square foot apartment can be between $2,900 and $3,500. (Kopp 2019). However, in Chicago, a similar sized apartment can run about $1,708. (Riley 2019). There are many factors to why the rents are so incredulously different. These include location and proximity to a desired destination. Destinations like work, Ivy league schools, or popular and highly rated clustered locations for food, drink, and entertainment. Other factors also include square footage of the space, how many bedrooms, how many bathrooms and more. As a former landlord, and apartment renter who owns his own home and works for a real estate investment trust – which is a large landlord, I hope to reveal which factors are the more directly influencing factors and predict what the rental price should be close to. I believe this will help those looking for apartments or apartment buildings to have a better sense of the cost and value before they commit to signing.
 
+### Project Specific Questions
+- 
+
 ## Included Project Variables / Factors 
 
 ### Top 40 NYC Employers by Distance according to Fortune Magazine - https://fortune.com/best-workplaces-new-york/2020/search/
@@ -160,13 +163,271 @@ Everyone likes to have a place of their own that they can call home. A place whe
  | Tropical Zone | 40.7676312 | -73.9725255 | attraction | 
  | Umpire rock | 40.7693619 | -73.9777798 | attraction | 
 
+### NYC Borough Area Zip 
+ | Borough | Area | Zip Code | 
+ | ------ | ------ | ------ | 
+ | Manhattan | Chelsea and Clinton | 10001 | 
+ | Manhattan | Lower East Side | 10002 | 
+ | Manhattan | Lower East Side | 10003 | 
+ | Manhattan | Lower Manhattan | 10004 | 
+ | Manhattan | Lower Manhattan | 10005 | 
+ | Manhattan | Lower Manhattan | 10006 | 
+ | Manhattan | Lower Manhattan | 10007 | 
+ | Manhattan | Lower East Side | 10008 | 
+ | Manhattan | Lower East Side | 10009 | 
+ | Manhattan | Gramercy Park and Murray Hill | 10010 | 
+ | Manhattan | Chelsea and Clinton | 10011 | 
+ | Manhattan | Greenwich Village and Soho | 10012 | 
+ | Manhattan | Greenwich Village and Soho | 10013 | 
+ | Manhattan | Greenwich Village and Soho | 10014 | 
+ | Manhattan | Greenwich Village and Soho | 10015 | 
+ | Manhattan | Gramercy Park and Murray Hill | 10016 | 
+ | Manhattan | Gramercy Park and Murray Hill | 10017 | 
+ | Manhattan | Chelsea and Clinton | 10018 | 
+ | Manhattan | Chelsea and Clinton | 10019 | 
+ | Manhattan | Chelsea and Clinton | 10020 | 
+ | Manhattan | Upper East Side | 10021 | 
+ | Manhattan | Gramercy Park and Murray Hill | 10022 | 
+ | Manhattan | Upper West Side | 10023 | 
+ | Manhattan | Upper West Side | 10024 | 
+ | Manhattan | Upper West Side | 10025 | 
+ | Manhattan | Central Harlem | 10026 | 
+ | Manhattan | Central Harlem | 10027 | 
+ | Manhattan | Upper East Side | 10028 | 
+ | Manhattan | East Harlem | 10029 | 
+ | Manhattan | Central Harlem | 10030 | 
+ | Manhattan | Inwood and Washington Heights | 10031 | 
+ | Manhattan | Inwood and Washington Heights | 10032 | 
+ | Manhattan | Inwood and Washington Heights | 10033 | 
+ | Manhattan | Inwood and Washington Heights | 10034 | 
+ | Manhattan | East Harlem | 10035 | 
+ | Manhattan | Chelsea and Clinton | 10036 | 
+ | Manhattan | Central Harlem | 10037 | 
+ | Manhattan | Lower Manhattan | 10038 | 
+ | Manhattan | Central Harlem | 10039 | 
+ | Manhattan | Inwood and Washington Heights | 10040 | 
+ | Manhattan | Inwood and Washington Heights | 10041 | 
+ | Manhattan | Upper East Side | 10044 | 
+ | Manhattan | Upper East Side | 10045 | 
+ | Manhattan | Upper East Side | 10048 | 
+ | Manhattan | Upper East Side | 10055 | 
+ | Manhattan | Upper East Side | 10060 | 
+ | Manhattan | Upper East Side | 10065 | 
+ | Manhattan | Upper East Side | 10069 | 
+ | Manhattan | Upper East Side | 10075 | 
+ | Manhattan | Upper East Side | 10090 | 
+ | Manhattan | Upper East Side | 10095 | 
+ | Manhattan | Upper East Side | 10098 | 
+ | Manhattan | Upper East Side | 10099 | 
+ | Manhattan | Upper East Side | 10103 | 
+ | Manhattan | Upper East Side | 10104 | 
+ | Manhattan | Upper East Side | 10105 | 
+ | Manhattan | Upper East Side | 10106 | 
+ | Manhattan | Upper East Side | 10107 | 
+ | Manhattan | Upper East Side | 10110 | 
+ | Manhattan | Upper East Side | 10111 | 
+ | Manhattan | Upper East Side | 10112 | 
+ | Manhattan | Upper East Side | 10115 | 
+ | Manhattan | Upper East Side | 10118 | 
+ | Manhattan | Upper East Side | 10119 | 
+ | Manhattan | Upper East Side | 10120 | 
+ | Manhattan | Upper East Side | 10121 | 
+ | Manhattan | Upper East Side | 10122 | 
+ | Manhattan | Upper East Side | 10123 | 
+ | Manhattan | Upper East Side | 10128 | 
+ | Manhattan | Upper East Side | 10128 | 
+ | Manhattan | Upper East Side | 10151 | 
+ | Manhattan | Upper East Side | 10152 | 
+ | Manhattan | Upper East Side | 10153 | 
+ | Manhattan | Upper East Side | 10154 | 
+ | Manhattan | Upper East Side | 10155 | 
+ | Manhattan | Upper East Side | 10158 | 
+ | Manhattan | Upper East Side | 10161 | 
+ | Manhattan | Upper East Side | 10162 | 
+ | Manhattan | Upper East Side | 10165 | 
+ | Manhattan | Upper East Side | 10166 | 
+ | Manhattan | Upper East Side | 10167 | 
+ | Manhattan | Upper East Side | 10168 | 
+ | Manhattan | Upper East Side | 10169 | 
+ | Manhattan | Upper East Side | 10170 | 
+ | Manhattan | Upper East Side | 10171 | 
+ | Manhattan | Upper East Side | 10172 | 
+ | Manhattan | Upper East Side | 10173 | 
+ | Manhattan | Upper East Side | 10174 | 
+ | Manhattan | Upper East Side | 10175 | 
+ | Manhattan | Upper East Side | 10176 | 
+ | Manhattan | Upper East Side | 10177 | 
+ | Manhattan | Upper East Side | 10178 | 
+ | Manhattan | Upper East Side | 10199 | 
+ | Manhattan | Upper East Side | 10270 | 
+ | Manhattan | Upper East Side | 10271 | 
+ | Manhattan | Upper East Side | 10275 | 
+ | Manhattan | Upper East Side | 10278 | 
+ | Manhattan | Upper East Side | 10279 | 
+ | Manhattan | Lower Manhattan | 10280 | 
+ | Manhattan | Lower Manhattan | 10281 | 
+ | Manhattan | Lower Manhattan | 10282 | 
+ | Staten Island | Stapleton and St. George | 10301 | 
+ | Staten Island | Port Richmond | 10302 | 
+ | Staten Island | Port Richmond | 10303 | 
+ | Staten Island | Port Richmond | 10303 | 
+ | Staten Island | Stapleton and St. George | 10304 | 
+ | Staten Island | Stapleton and St. George | 10305 | 
+ | Staten Island | South Shore | 10306 | 
+ | Staten Island | South Shore | 10307 | 
+ | Staten Island | South Shore | 10308 | 
+ | Staten Island | South Shore | 10309 | 
+ | Staten Island | Port Richmond | 10310 | 
+ | Staten Island | Port Richmond | 10311 | 
+ | Staten Island | South Shore | 10312 | 
+ | Staten Island | Mid-Island | 10314 | 
+ | Bronx | High Bridge and Morrisania | 10451 | 
+ | Bronx | High Bridge and Morrisania | 10452 | 
+ | Bronx | Central Bronx  | 10453 | 
+ | Bronx | Hunts Point and Mott Haven | 10454 | 
+ | Bronx | Hunts Point and Mott Haven | 10455 | 
+ | Bronx | High Bridge and Morrisania | 10456 | 
+ | Bronx | Central Bronx  | 10457 | 
+ | Bronx | Bronx Park and Fordham | 10458 | 
+ | Bronx | Hunts Point and Mott Haven | 10459 | 
+ | Bronx | Central Bronx  | 10460 | 
+ | Bronx | Southeast Bronx | 10461 | 
+ | Bronx | Southeast Bronx | 10462 | 
+ | Bronx | Kingsbridge and Riverdale | 10463 | 
+ | Bronx | Southeast Bronx | 10464 | 
+ | Bronx | Southeast Bronx | 10465 | 
+ | Bronx | Northeast Bronx  | 10466 | 
+ | Bronx | Bronx Park and Fordham | 10467 | 
+ | Bronx | Bronx Park and Fordham | 10468 | 
+ | Bronx | Northeast Bronx  | 10469 | 
+ | Bronx | Northeast Bronx  | 10470 | 
+ | Bronx | Kingsbridge and Riverdale | 10471 | 
+ | Bronx | Southeast Bronx | 10472 | 
+ | Bronx | Southeast Bronx | 10473 | 
+ | Bronx | Hunts Point and Mott Haven | 10474 | 
+ | Bronx | Northeast Bronx  | 10475 | 
+ | Queens | Southeast Queens | 11004 | 
+ | Queens | Southeast Queens | 11005 | 
+ | Queens | Northwest Queens | 11101 | 
+ | Queens | Northwest Queens | 11102 | 
+ | Queens | Northwest Queens | 11103 | 
+ | Queens | Northwest Queens | 11104 | 
+ | Queens | Northwest Queens | 11105 | 
+ | Queens | Northwest Queens | 11106 | 
+ | Queens | Northwest Queens | 11109 | 
+ | Brooklyn | Northwest Brooklyn | 11201 | 
+ | Brooklyn | Flatbush | 11203 | 
+ | Brooklyn | Borough Park | 11204 | 
+ | Brooklyn | Northwest Brooklyn | 11205 | 
+ | Brooklyn | Bushwick and Williamsburg | 11206 | 
+ | Brooklyn | East New York and New Lots | 11207 | 
+ | Brooklyn | East New York and New Lots | 11208 | 
+ | Brooklyn | Southwest Brooklyn | 11209 | 
+ | Brooklyn | Flatbush | 11210 | 
+ | Brooklyn | Greenpoint | 11211 | 
+ | Brooklyn | Central Brooklyn | 11212 | 
+ | Brooklyn | Central Brooklyn | 11213 | 
+ | Brooklyn | Southwest Brooklyn | 11214 | 
+ | Brooklyn | Northwest Brooklyn | 11215 | 
+ | Brooklyn | Central Brooklyn | 11216 | 
+ | Brooklyn | Northwest Brooklyn | 11217 | 
+ | Brooklyn | Borough Park | 11218 | 
+ | Brooklyn | Borough Park | 11219 | 
+ | Brooklyn | Sunset Park | 11220 | 
+ | Brooklyn | Bushwick and Williamsburg | 11221 | 
+ | Brooklyn | Greenpoint | 11222 | 
+ | Brooklyn | Southern Brooklyn | 11223 | 
+ | Brooklyn | Southern Brooklyn | 11224 | 
+ | Brooklyn | Flatbush | 11225 | 
+ | Brooklyn | Flatbush | 11226 | 
+ | Brooklyn | Southwest Brooklyn | 11228 | 
+ | Brooklyn | Southern Brooklyn | 11229 | 
+ | Brooklyn | Borough Park | 11230 | 
+ | Brooklyn | Northwest Brooklyn | 11231 | 
+ | Brooklyn | Sunset Park | 11232 | 
+ | Brooklyn | Central Brooklyn | 11233 | 
+ | Brooklyn | Canarsie and Flatlands | 11234 | 
+ | Brooklyn | Southern Brooklyn | 11235 | 
+ | Brooklyn | Canarsie and Flatlands | 11236 | 
+ | Brooklyn | Bushwick and Williamsburg | 11237 | 
+ | Brooklyn | Central Brooklyn | 11238 | 
+ | Brooklyn | Canarsie and Flatlands | 11239 | 
+ | Brooklyn | Canarsie and Flatlands | 11241 | 
+ | Brooklyn | Canarsie and Flatlands | 11242 | 
+ | Brooklyn | Canarsie and Flatlands | 11243 | 
+ | Brooklyn | Canarsie and Flatlands | 11249 | 
+ | Brooklyn | Canarsie and Flatlands | 11252 | 
+ | Brooklyn | Canarsie and Flatlands | 11256 | 
+ | Queens | Canarsie and Flatlands | 11351 | 
+ | Queens | North Queens | 11354 | 
+ | Queens | North Queens | 11355 | 
+ | Queens | North Queens | 11356 | 
+ | Queens | North Queens | 11357 | 
+ | Queens | North Queens | 11358 | 
+ | Queens | North Queens | 11359 | 
+ | Queens | North Queens | 11360 | 
+ | Queens | Northeast Queens | 11361 | 
+ | Queens | Northeast Queens | 11362 | 
+ | Queens | Northeast Queens | 11363 | 
+ | Queens | Northeast Queens | 11364 | 
+ | Queens | Central Queens | 11365 | 
+ | Queens | Central Queens | 11366 | 
+ | Queens | Central Queens | 11367 | 
+ | Queens | West Queens | 11368 | 
+ | Queens | West Queens | 11369 | 
+ | Queens | West Queens | 11370 | 
+ | Queens | West Queens | 11371 | 
+ | Queens | West Queens | 11372 | 
+ | Queens | West Queens | 11373 | 
+ | Queens | West Central Queens | 11374 | 
+ | Queens | West Central Queens | 11375 | 
+ | Queens | West Queens | 11377 | 
+ | Queens | West Queens | 11378 | 
+ | Queens | West Central Queens | 11379 | 
+ | Queens | West Central Queens | 11385 | 
+ | Queens | Southeast Queens | 11411 | 
+ | Queens | Jamaica | 11412 | 
+ | Queens | Southeast Queens | 11413 | 
+ | Queens | Southwest Queens | 11414 | 
+ | Queens | Southwest Queens | 11415 | 
+ | Queens | Southwest Queens | 11416 | 
+ | Queens | Southwest Queens | 11417 | 
+ | Queens | Southwest Queens | 11418 | 
+ | Queens | Southwest Queens | 11419 | 
+ | Queens | Southwest Queens | 11420 | 
+ | Queens | Southwest Queens | 11421 | 
+ | Queens | Southeast Queens | 11422 | 
+ | Queens | Jamaica | 11423 | 
+ | Queens | Southeast Queens | 11426 | 
+ | Queens | Southeast Queens | 11427 | 
+ | Queens | Southeast Queens | 11428 | 
+ | Queens | Southeast Queens | 11429 | 
+ | Queens | Southeast Queens | 11430 | 
+ | Queens | Jamaica | 11432 | 
+ | Queens | Jamaica | 11433 | 
+ | Queens | Jamaica | 11434 | 
+ | Queens | Jamaica | 11435 | 
+ | Queens | Jamaica | 11436 | 
+ | Queens | Rockaways | 11691 | 
+ | Queens | Rockaways | 11692 | 
+ | Queens | Rockaways | 11693 | 
+ | Queens | Rockaways | 11694 | 
+ | Queens | Rockaways | 11695 | 
+ | Queens | Rockaways | 11697 | 
+
+
 ### Distance to Highly Rated and Priced Businesses recorded by Yelp
-- Yelp_Highest_Priced_0 -Cluster Center
-- Yelp_Highest_Priced_1 -Cluster Center
-- Yelp_Highest_Priced_2 -Cluster Center
-- Yelp_Highest_Rated_0 -Cluster Center
-- Yelp_Highest_Rated_1 -Cluster Center
-- Yelp_Highest_Rated_2 -Cluster Center
+| Yelp Rating | Latitudes | Longitudes | 
+| ------ | ------ | ------ | ------ | 
+ | Yelp_Highest_Priced_0 -Cluster Center | 40.71360594 | -74.00834961 |  
+ | Yelp_Highest_Priced_1 -Cluster Center | 40.76068284 | -73.97826484 | 
+ | Yelp_Highest_Priced_2 -Cluster Center | 40.73287131 | -73.99541715 | 
+ | Yelp_Highest_Rated_0 -Cluster Center | 40.71570017 | -74.00162143 | 
+ | Yelp_Highest_Rated_1 -Cluster Center | 40.80175434 | -73.94419938 | 
+ | Yelp_Highest_Rated_2 -Cluster Center | 40.76213922 | -73.98069774 | 
+
+### Apartment Description 
+- Length of the apartment description
 
 ### Apartment Amenities
 - bathrooms
@@ -276,9 +537,10 @@ Package               Version
 | GetZipCodeHigh.py | Created to get zipcodes from lat and long so to remove non NYC apartments from the NYC RentHop dataset using a list of valid Zip Codes / partitioned by interest level due to larger base recordset causing session timeout with Nominatim |
 | Combine_RentHop_InterestFiles.py | Combines the resulting csv files from GetZipCodeHigh/Medium/Low.py files |
 | NYCAttractionsMap.py | Creates Maps of the NYC Attractions | 
-
-| RemoveNonNYCRecords.py | Removes Non NYC apartments from master analytics dataset |
 | CalculateDistancesToNYCAttractions.py | Generates the geohash for these attractions using the Latitudes and Longitudes | 
+| RemoveNonNYCRecords.py | Removes Non NYC apartments from master analytics dataset |
+| BoroughZips.py | Updates the Borough along with Borough Area Name using ZipCode. Adds numeric code for each. | 
+
 | FinalDataWranglingEDA.py | Final Data Wrangling, strips html, punctuation and cleans up non NYC Zipcode related apartments. | 
 | VariableCorrelationReview.py | Variable Correlation Analysis using the master analytics dataset | 
 | RandomForest.py | Model review and testing. Features Analysis and parameter tuning. | 
@@ -368,6 +630,7 @@ Apartment Pricing Distribution
 | Pluto | NYC Borough Location Area Information | https://www1.nyc.gov/ | 
 | Mygeodata | NYC Location of Attractions | https://mygeodata.cloud/ | 
 | Zip Codes | NYC Zip Codes | https://worldpostalcode.com/united-states/new-york/new-york-city | 
+| Boroughs Area Names | Borough by Zip Code | https://www.nycbynatives.com/nyc_info/new_york_city_zip_codes.php & https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0194799/1/pone.0194799.s001.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210328%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210328T203603Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=91b1ec1a775a9e750bc63a5cd5d7bc1e36ebba6f7271f16239ef3bf4fb44a025c106d9737e6bc6b88a4e1402ece330e70790ec33e25622be67c35e409e637a4b763cb2461a5b037bf23bc3ab415791fd625225cffbeac605de27991074666cf5a8acb1a0b428e2e7f71d383dfdfc3aaabada40e2aadd923a3ae48fc4da6e4e42fec97bc62ac32a84e05b9cfb9f269c10e600859b0f0a6ce5ac4cf04c7eef0e57d47ba99eac61b04a70ccdeff079a33ee0156343794d022edad687477934124d775295d416026a1bd31d0fd44da85820a2758b6034cd284f1bbbcc6e565918cb2cbbf35441ba1d0221691732c2047bb7d11d53f0ac5309ea2616c5adab80dff96 |
 
 ##References: 
 
