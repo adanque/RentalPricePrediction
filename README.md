@@ -1,6 +1,6 @@
 # New York Apartment Rental Price Prediction
 
-## _Prediction Rental Prices in NYC - !!!Under Construction - Currently in progress!!!_
+## _Predicting Rental Prices in NYC - Evaluating Price Factors !!!Under Construction - Currently in progress!!!_
 
 <a href="https://www.linkedin.com/in/alandanque"> Author: Alan Danque </a>
 
@@ -44,7 +44,7 @@ Everyone likes to have a place of their own that they can call home. A place whe
 - wheelchair_access
 - common_outdoor_space
 
-### Employer Distance
+### Top 40 Employers by Distance
 - The Goldman Sachs Group, Inc. Distance
 - Adecco Group brands Distance
 - Live Nation Entertainment Distance
@@ -149,6 +149,8 @@ Package               Version
 └───Datasets
 
 └───Scripts
+
+└───Results
 
 ## Python Files 
 
