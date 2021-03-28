@@ -45,46 +45,48 @@ Everyone likes to have a place of their own that they can call home. A place whe
 - common_outdoor_space
 
 ### Top 40 Employers by Distance
-- The Goldman Sachs Group, Inc. Distance
-- Adecco Group brands Distance
-- Live Nation Entertainment Distance
-- Zillow Distance
-- Blackstone Distance
-- Voya Financial Distance
-- Horizon Media Distance
-- Ernst & Young LLP Distance
-- Protiviti Distance
-- Accenture Distance
-- PricewaterhouseCoopers LLP Distance
-- Dechert LLP Distance
-- Mastercard Incorporated Distance
-- KPMG LLP Distance
-- Baker Tilly Virchow Krause, LLP Distance
-- Comcast NBCUniversal Distance
-- Atlassian Distance
-- Citizens Bank Distance
-- Capital One Financial Corporation Distance
-- Deloitte Distance
-- Adobe Distance
-- Cumberland Farms, Inc. Distance
-- Alston & Bird LLP Distance
-- DHL Express U.S. Distance
-- Workiva Inc. Distance
-- Dropbox Distance
-- Cooley LLP Distance
-- Bain & Company Distance
-- American Express Distance
-- Orrick Distance
-- Shawmut Design and Construction Distance
-- Noom, Inc. Distance
-- The Cheesecake Factory Incorporated Distance
-- Concord Hospitality Enterprises Company Distance
-- Box, Inc. Distance
-- West Monroe Partners Distance
-- Wegmans Food Markets, Inc. Distance
-- Power Home Remodeling Distance
-- Hulu Distance
-- Salesforce Distance
+- Rank | Name | Industry | Employees | World Wide Revenue | 
+- 40 | The Goldman Sachs Group, Inc. | Financial Services & Insurance | - | 36616000000 | 
+- 39 | Adecco Group brands | Professional Services | - | - | 
+- 38 | Live Nation Entertainment | Entertainment | 11277 | 10787800000 | 
+- 37 | Zillow | Information Technology | 5150 | 1300000000 | 
+- 36 | Blackstone | Financial Services & Insurance | - | - | 
+- 35 | Voya Financial | Financial Services & Insurance | 5835 | 8514000000 | 
+- 34 | Horizon Media | Advertising & Marketing | 1908 | - | 
+- 33 | Ernst & Young LLP | Professional Services | 260569 | 34800000000 | 
+- 32 | Protiviti | Professional Services | 3520 | 957716000 | 
+- 31 | Accenture | Professional Services | 477000 | 39573450000 | 
+- 30 | PricewaterhouseCoopers LLP | Professional Services | 250000 | 41300000000 | 
+- 29 | Dechert LLP | Professional Services | 1966 | 1021751932 | 
+- 28 | Mastercard Incorporated | Financial Services & Insurance | 14800 | 14950000000 | 
+- 27 | KPMG LLP | Professional Services | 207000 | 28960000000 | 
+- 26 | Baker Tilly Virchow Krause, LLP | Professional Services | 3558 | 630000000 | 
+- 25 | Comcast NBCUniversal | Telecommunications | 184000 | 94507000000 | 
+- 24 | Atlassian | Information Technology | - | 1210126855 | 
+- 23 | Citizens Bank | Financial Services & Insurance | - | 160000000000 | 
+- 22 | Capital One Financial Corporation | Financial Services & Insurance | 47500 | 28100000000 | 
+- 21 | Deloitte | Professional Services | 109778 | 43200000000 | 
+- 20 | Adobe | Information Technology | 21163 | 9030000000 | 
+- 19 | Cumberland Farms, Inc. | Retail | - | 3700000000 | 
+- 18 | Alston & Bird LLP | Professional Services | 1610 | 816473083 | 
+- 17 | DHL Express U.S. | Transportation | 102540 | 18197669000 | 
+- 16 | Workiva Inc. | Information Technology | 1393 | 244344000 | 
+- 15 | Dropbox | Information Technology | - | 1391700000 | 
+- 14 | Cooley LLP | Professional Services | 2311 | 1226149000 | 
+- 13 | Bain & Company | Professional Services | 10131 | - | 
+- 12 | American Express | Financial Services & Insurance | - | 40338000 | 
+- 11 | Orrick | Professional Services | 2400 | 1046000000 | 
+- 10 | Shawmut Design and Construction | Construction | - | 1440600000 | 
+- 9 | Noom, Inc. | Information Technology | 1323 | 61000000 | 
+- 8 | The Cheesecake Factory Incorporated | Hospitality | 38009 | 2332331000 | 
+- 7 | Concord Hospitality Enterprises Company | Hospitality | 5251 | 41577989 | 
+- 6 | Box, Inc. | Information Technology | 2053 | 608400000 | 
+- 5 | West Monroe Partners | Professional Services | 850 | - | 
+- 4 | Wegmans Food Markets, Inc. | Retail | - | 9217331000 | 
+- 3 | Power Home Remodeling | Construction | - | 695000000 | 
+- 2 | Hulu | Media | 2261 | - | 
+- 1 | Salesforce | Information Technology | 40152 | 13280000000 | 
+
 
 ### Yelp Distance
 - Yelp_Highest_Priced_0 -Cluster Center
