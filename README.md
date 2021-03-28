@@ -172,8 +172,16 @@ Package               Version
 | ClusterNYCYelpRatedBusinesses.py | Creates clusters and gets the centers for these kmeans clusters. Using Yelp Highest Ratings and Yelp Most Expensive Restaurants | 
 | NYC_RentHop_ApartmentLocations_Map | Create Map of the locations of the apartments in my master dataset |
 | GetZipCode.py | Created to get zipcodes from lat and long so to remove non NYC apartments from the NYC RentHop dataset using a list of valid Zip Codes |
-| FinalDataWranglingEDA.py | Final Data Wrangling, strips html, punctuation and cleans up non NYC Zipcode related apartments. | 
+| GetZipCodeLow.py | Created to get zipcodes from lat and long so to remove non NYC apartments from the NYC RentHop dataset using a list of valid Zip Codes / partitioned by interest level due to larger base recordset causing session timeout with Nominatim |
+| GetZipCodeMedium.py | Created to get zipcodes from lat and long so to remove non NYC apartments from the NYC RentHop dataset using a list of valid Zip Codes / partitioned by interest level due to larger base recordset causing session timeout with Nominatim |
+| GetZipCodeHigh.py | Created to get zipcodes from lat and long so to remove non NYC apartments from the NYC RentHop dataset using a list of valid Zip Codes / partitioned by interest level due to larger base recordset causing session timeout with Nominatim |
 
+| Combine_RentHop_InterestFiles.py | Combines the resulting csv files from GetZipCodeHigh/Medium/Low.py files |
+| RemoveNonNYCRecords.py | Removes Non NYC apartments from master analytics dataset |
+| CalculateDistancesToNYCAttractions.py | Generates the geohash for these attractions using the Latitudes and Longitudes | 
+| FinalDataWranglingEDA.py | Final Data Wrangling, strips html, punctuation and cleans up non NYC Zipcode related apartments. | 
+| VariableCorrelationReview.py | Variable Correlation Analysis using the master analytics dataset | 
+| RandomForest.py | Model review and testing. Features Analysis and parameter tuning. | 
 
 
 | NYCEmployers.csv | NYC Top Employers - https://fortune.com/best-workplaces-new-york/2020/search/ | 
@@ -246,9 +254,39 @@ Pricing Outlier Detection
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Price_w90_pct_Max_Price_Excluded.png?raw=true)
 Apartment Pricing Distribution
 
-References: 
+## Data Sources
+| RentHop | NYC Apartments Inventory | https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data | 
+| Yelp | Collection of NYC Business Ratings and Prices | https://www.yelp.com/dataset | 
+| Fortune | NYC List of top 40 Employers | https://fortune.com/best-workplaces-new-york/2020/search/ | 
+| Pluto | NYC Borough Location Area Information | https://www1.nyc.gov/ | 
+| Mygeodata | NYC Location of Attractions | https://mygeodata.cloud/ | 
+| Zip Codes | NYC Zip Codes | https://worldpostalcode.com/united-states/new-york/new-york-city | 
+
+##References: 
 
 Kopp, C. (November 2019). How Expensive is it to Live in New York City? Retrieved from: https://www.investopedia.com/articles/personal-finance/012315/how-expensive-new-york-city-really.asp
 
 Riley, E. (July 2019). Cost of Living in Chicago vs. NYC: Which Big City Is Cheaper? Retrieved from: https://streeteasy.com/blog/cost-of-living-in-chicago-vs-nyc/#:~:text=Median%20rent%20for%20a%201,That's%20nothing%20to%20scoff%20at.
+
+TIMOTHY102, (October 2020). Predicting NYC AirBnB Rental Prices with TensorFlow. Retrieved from  https://www.analyticsvidhya.com/blog/2020/10/predicting-nyc-airbnb-rental-prices-tensorflow/
+
+Carmody, B. (February 2021). Best Rental Listing Sites. Retrieved from  https://www.investopedia.com/best-rental-listing-sites-5075293
+
+RentCafe. (n.d.). RentCafe is a listing site that can be used for comparable pricing with my predicted values. Retrieved from https://www.rentcafe.com/
+
+Mastroeni, T. (October 2020). How is Artificial Intelligence Used in Real Estate? Retrieved from https://www.fool.com/millionacres/real-estate-market/real-estate-innovation/how-is-artificial-intelligence-used-in-real-estate/
+
+Barzilay, O. (March 2017). Property Management May Be The Next Frontier For AI. Retrieved from https://www.forbes.com/sites/omribarzilay/2017/03/14/property-management-may-be-the-next-frontier-for-ai/?sh=3ba8d5f66fb3
+
+McLaughlin, K. (November 2019). Robots Are Taking Over (the Rental Screening Process). Retrieved from https://www.wsj.com/articles/robots-are-taking-over-the-rental-screening-process-11574332200
+
+Devanesan, J. (October 2019). What happens when AI enters the rental market? Retrieved from https://techhq.com/2019/10/what-happens-when-ai-enters-the-rental-market/
+
+Antony, V. (May 2020) Predicting Apartment Rental Prices in Germany. Retrieved from https://towardsdatascience.com/predicting-apartment-rental-prices-in-germany-d5635197ab00
+
+Villar, B. (April 2020). Machine Learning and RealState: Predicting Rental Prices in Amsterdam. Retrieved from https://towardsdatascience.com/ai-and-real-state-renting-in-amsterdam-part-1-5fce18238dbc
+
+Najera, C. Hunter, T. Zhan, D. Bialer, J. (March 2017). Predicting Interest for NYC Apartment Rental Listings - A Guideline For Landlors and Agents. Retrieved from https://nycdatascience.com/blog/student-works/predicting-interest-nyc-apartments-rent-guideline-landlords/
+
+
 
