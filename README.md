@@ -305,7 +305,7 @@ Apartment locations contained in my NYC RentHop dataset. Note: the outliers outs
 Above is a heatmap of the apartments located in NYC
 
 ### NYC Attractions
-![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Attractions.png.png?raw=true)
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Attractions.png?raw=true)
 NYC Attraction locations.
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Attractions_Heatmap.png?raw=true)
 Above is a heatmap of the attractions located in NYC
