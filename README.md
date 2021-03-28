@@ -12,6 +12,90 @@ Abstract:
 
 Everyone likes to have a place of their own that they can call home. A place where one can rest, recharge, and relax. A place where a person can safely store their possessions. Finding such a place can be an ordeal no matter if you are a renter, a homeowner, or a landlord. As the price of any type of home is affected by many different factors. The confusing caveats are trying to understand which factors affect the value or rental price. And if the value is credible or just overly bloated to line someone’s pockets. For example, according to investopia.com there are many locations in New York where the price of a 700 square foot apartment can be between $2,900 and $3,500. (Kopp 2019). However, in Chicago, a similar sized apartment can run about $1,708. (Riley 2019). There are many factors to why the rents are so incredulously different. These include location and proximity to a desired destination. Destinations like work, Ivy league schools, or popular and highly rated clustered locations for food, drink, and entertainment. Other factors also include square footage of the space, how many bedrooms, how many bathrooms and more. As a former landlord, and apartment renter who owns his own home and works for a real estate investment trust – which is a large landlord, I hope to reveal which factors are the more directly influencing factors and predict what the rental price should be close to. I believe this will help those looking for apartments or apartment buildings to have a better sense of the cost and value before they commit to signing.
 
+## Included Project Variables
+### Amenities
+- bathrooms
+- bedrooms
+- latitude
+- longitude
+- price
+- interest_level
+- elevator
+- cats_allowed
+- hardwood_floors
+- dogs_allowed
+- doorman
+- dishwasher
+- no_fee
+- laundry_in_building
+- fitness_center
+- laundry_in_unit
+- roof_deck
+- outdoor_space
+- dining_room
+- high_speed_internet
+- balcony
+- swimming_pool
+- new_construction
+- terrace
+- exclusive
+- loft
+- garden_patio
+- wheelchair_access
+- common_outdoor_space
+
+### Employer Distance
+- The Goldman Sachs Group, Inc. Distance
+- Adecco Group brands Distance
+- Live Nation Entertainment Distance
+- Zillow Distance
+- Blackstone Distance
+- Voya Financial Distance
+- Horizon Media Distance
+- Ernst & Young LLP Distance
+- Protiviti Distance
+- Accenture Distance
+- PricewaterhouseCoopers LLP Distance
+- Dechert LLP Distance
+- Mastercard Incorporated Distance
+- KPMG LLP Distance
+- Baker Tilly Virchow Krause, LLP Distance
+- Comcast NBCUniversal Distance
+- Atlassian Distance
+- Citizens Bank Distance
+- Capital One Financial Corporation Distance
+- Deloitte Distance
+- Adobe Distance
+- Cumberland Farms, Inc. Distance
+- Alston & Bird LLP Distance
+- DHL Express U.S. Distance
+- Workiva Inc. Distance
+- Dropbox Distance
+- Cooley LLP Distance
+- Bain & Company Distance
+- American Express Distance
+- Orrick Distance
+- Shawmut Design and Construction Distance
+- Noom, Inc. Distance
+- The Cheesecake Factory Incorporated Distance
+- Concord Hospitality Enterprises Company Distance
+- Box, Inc. Distance
+- West Monroe Partners Distance
+- Wegmans Food Markets, Inc. Distance
+- Power Home Remodeling Distance
+- Hulu Distance
+- Salesforce Distance
+
+### Yelp Distance
+- Yelp_Highest_Priced_0 -Cluster Center
+- Yelp_Highest_Priced_1 -Cluster Center
+- Yelp_Highest_Priced_2 -Cluster Center
+- Yelp_Highest_Rated_0 -Cluster Center
+- Yelp_Highest_Rated_1 -Cluster Center
+- Yelp_Highest_Rated_2 -Cluster Center
+
+
+
 ## Pythonic Libraries Used in this project
 Package               Version
 --------------------- ---------
