@@ -12,37 +12,7 @@ Abstract:
 
 Everyone likes to have a place of their own that they can call home. A place where one can rest, recharge, and relax. A place where a person can safely store their possessions. Finding such a place can be an ordeal no matter if you are a renter, a homeowner, or a landlord. As the price of any type of home is affected by many different factors. The confusing caveats are trying to understand which factors affect the value or rental price. And if the value is credible or just overly bloated to line someone’s pockets. For example, according to investopia.com there are many locations in New York where the price of a 700 square foot apartment can be between $2,900 and $3,500. (Kopp 2019). However, in Chicago, a similar sized apartment can run about $1,708. (Riley 2019). There are many factors to why the rents are so incredulously different. These include location and proximity to a desired destination. Destinations like work, Ivy league schools, or popular and highly rated clustered locations for food, drink, and entertainment. Other factors also include square footage of the space, how many bedrooms, how many bathrooms and more. As a former landlord, and apartment renter who owns his own home and works for a real estate investment trust – which is a large landlord, I hope to reveal which factors are the more directly influencing factors and predict what the rental price should be close to. I believe this will help those looking for apartments or apartment buildings to have a better sense of the cost and value before they commit to signing.
 
-## Included Project Variables
-### Amenities
-- bathrooms
-- bedrooms
-- latitude
-- longitude
-- price
-- interest_level
-- elevator
-- cats_allowed
-- hardwood_floors
-- dogs_allowed
-- doorman
-- dishwasher
-- no_fee
-- laundry_in_building
-- fitness_center
-- laundry_in_unit
-- roof_deck
-- outdoor_space
-- dining_room
-- high_speed_internet
-- balcony
-- swimming_pool
-- new_construction
-- terrace
-- exclusive
-- loft
-- garden_patio
-- wheelchair_access
-- common_outdoor_space
+## Included Project Variables / Factors 
 
 ### Top 40 NYC Employers by Distance according to Fortune Magazine - https://fortune.com/best-workplaces-new-york/2020/search/
 | Rank | Name | Industry | Employees | World Wide Revenue | 
@@ -91,107 +61,106 @@ Everyone likes to have a place of their own that they can call home. A place whe
 ### NYC Attractions
  | name | latitude | longitude | tourism | 
  | ------ | ------ | ------ | ------ | 
- | 1 World Trade Center | -74.0131898 | 40.7130055 | attraction | 
- | 80 South Street | -74.0043915 | 40.7056076 | attraction | 
- | Access High Line Park | -74.0018026 | 40.7523844 | attraction | 
- | American Icon | -74.0035301 | 40.7172272 | attraction | 
- | Anton Kern Gallery | -73.9739449 | 40.7611132 | attraction | 
- | Archibalds Townhouse | -73.9656246 | 40.7733291 | attraction | 
- | Arguably the best location to see evening Manhattan Henge | -73.9812647 | 40.7471958 | attraction | 
- | BAC | -73.9973055 | 40.7560503 | attraction | 
- | Barthmans Sidewalk Clock | -74.0099251 | 40.7098196 | attraction | 
- | big gay ice cream | -73.9847678 | 40.7264894 | attraction | 
- | Bloody Angle | -73.9981297 | 40.7144199 | attraction | 
- | Bryant Park | -73.9839079 | 40.7535129 | attraction | 
- | California Sea Lion | -73.9717588 | 40.7678191 | attraction | 
- | Canal Street | -73.9985965 | 40.7171153 | attraction | 
- | Canal street market | -74.0008621 | 40.718987 | attraction | 
- | Carrie Bradshaw House | -74.0038558 | 40.7353656 | attraction | 
- | Casa di Carrie | -74.0038435 | 40.735302 | attraction | 
- | Chelsea | -74.0018779 | 40.7458699 | attraction | 
- | Chelsea Flea Market | -73.9903215 | 40.7436929 | attraction | 
- | Chelsea Market | -74.0069958 | 40.7429237 | attraction | 
- | Chinatown | -73.9984718 | 40.7156258 | attraction | 
- | Circle line ferrys | -74.0015777 | 40.7628258 | attraction | 
- | Classic Car Club Manhattan | -74.0047756 | 40.7580807 | attraction | 
- | Cocktail Kingdom | -73.9907173 | 40.7436082 | attraction | 
- | Colonnade row | -73.9924535 | 40.7292801 | attraction | 
- | Color Factory | -74.0062226 | 40.7258445 | attraction | 
- | Cortlandt Alley | -74.0023028 | 40.7177394 | attraction | 
- | Couv Led Zepp 5e album | -73.9850116 | 40.7273462 | attraction | 
- | Curry hill | -73.9824692 | 40.7426274 | attraction | 
- | Delacorte Musical Clock | -73.9711748 | 40.7681148 | attraction | 
- | Diamond District | -73.9801423 | 40.7572421 | attraction | 
- | Dream house | -74.0048345 | 40.7184995 | attraction | 
- | Dr Nevilles I Am Legend townhouse | -73.9965692 | 40.7313957 | attraction | 
- | Empire State Building | -73.9849958 | 40.7481629 | attraction | 
- | Explore Chinatown Information Kiosk | -73.9992431 | 40.7173684 | attraction | 
- | Flatiron District | -73.9896534 | 40.7410723 | attraction | 
- | Food Truck Street | -73.9814247 | 40.7570048 | attraction | 
- | Free Kayaking with the Downtown Boathouse | -74.0122141 | 40.6915007 | attraction | 
- | Free Public Stargazing | -73.9835751 | 40.7725563 | attraction | 
- | Free Public Stargazing | -74.0077867 | 40.7420581 | attraction | 
- | Friends Building | -74.0052999 | 40.7323595 | attraction | 
- | Gapstow bridge | -73.9738339 | 40.7669279 | attraction | 
- | Gentoo Penguin | -73.971457 | 40.76833 | attraction | 
- | Glen span arch | -73.9591072 | 40.7947039 | attraction | 
- | Greenwich Village | -74.0028172 | 40.7335845 | attraction | 
- | Grey houndiin bus stop | -73.994485 | 40.7575015 | attraction | 
- | Grizzly Bear | -73.971913 | 40.7684112 | attraction | 
- | Grove Court | -74.0057762 | 40.7321796 | attraction | 
- | Hangmans Elm | -73.998611 | 40.7318891 | attraction | 
- | High Line Access | -74.0045942 | 40.7467802 | attraction | 
- | High Line Park | -74.0066972 | 40.7451181 | attraction | 
- | Huddlestone arch | -73.9556352 | 40.7958355 | attraction | 
- | Kayak Brooklyn | -73.997566 | 40.6995561 | attraction | 
- | La casa de los Tenenbaums | -73.9465643 | 40.8237943 | attraction | 
- | La de forest house | -73.9946773 | 40.7331991 | attraction | 
- | Le Petit Versailles | -73.9818662 | 40.7210729 | attraction | 
- | LES SKATEPARK | -73.9933152 | 40.7110791 | attraction | 
- | Liz Christy Garden | -73.9921517 | 40.7242411 | attraction | 
- | Low Line Park | -73.9871259 | 40.7203545 | attraction | 
- | Mad about you building | -73.9946122 | 40.7346862 | attraction | 
- | Mahayanna Buddhist Center | -73.995237 | 40.71641 | attraction | 
- | Maison sur les toits | -73.9883555 | 40.72332 | attraction | 
- | Mark Twain House | -73.9964593 | 40.7337058 | attraction | 
- | Meatpacking District | -74.0075113 | 40.7409503 | attraction | 
- | NBC Studios | -73.9796681 | 40.7591425 | attraction | 
- | Nicholas Roerich Museum | -73.9689522 | 40.8027945 | attraction | 
- | Nicola Tesla corner | -73.9846757 | 40.7535873 | attraction | 
- | NY Skyride | -73.9856549 | 40.7483272 | attraction | 
- | Original brown stone houses | -73.9474058 | 40.8230348 | attraction | 
- | paparazzi dogman and paparazzi rabbitgirl | -73.9806283 | 40.7599935 | attraction | 
- | Paul Nicklen Gallery | -74.0033029 | 40.7226903 | attraction | 
- | Point de vue 17e rue | -74.0069385 | 40.7440976 | attraction | 
- | Puffin | -73.9713336 | 40.768196 | attraction | 
- | Red Panda | -73.9727846 | 40.7682914 | attraction | 
- | Rockefeller Center | -73.9788005 | 40.7588448 | attraction | 
- | Rowboat rentals | -73.9690887 | 40.7749309 | attraction | 
- | Salmagundi club | -73.9945529 | 40.7343017 | attraction | 
- | Schwartz Luggage Storage | -73.9945593 | 40.7552442 | attraction | 
- | Seal | -73.9716059 | 40.7683716 | attraction | 
- | Sea Lions | -73.9717654 | 40.767841 | attraction | 
- | Sightseeing Pass, LLC | -73.9875915 | 40.7608187 | attraction | 
- | Site of the Beach Pneumatic Subway | -74.0065761 | 40.7129806 | attraction | 
- | Snow Leopard | -73.9726493 | 40.7686429 | attraction | 
- | Snow Monkey | -73.9723113 | 40.7681797 | attraction | 
- | SoHo | -73.9987505 | 40.7228801 | attraction | 
- | South Street Seaport | -74.0028376 | 40.7057753 | attraction | 
- | Spyscape | -73.9838591 | 40.7650645 | attraction | 
- | Statue of Liberty | -73.9851473 | 40.7219912 | attraction | 
- | Stonewall Inn | -74.0021484 | 40.7338008 | attraction | 
- | Textile building | -74.0056679 | 40.7174627 | attraction | 
- | The High Line | -74.0034424 | 40.753277 | attraction | 
- | The High Line North Entrance | -74.0033107 | 40.7561135 | attraction | 
- | The Ride | -73.9911128 | 40.7549545 | attraction | 
- | Times Square | -73.9856026 | 40.7579511 | attraction | 
- | Tortoise | -73.9727565 | 40.7679979 | attraction | 
- | TriBeCa | -74.0061043 | 40.7223526 | attraction | 
- | Tropical Zone | -73.9725255 | 40.7676312 | attraction | 
- | Umpire rock | -73.9777798 | 40.7693619 | attraction | 
+ | 1 World Trade Center | 40.7130055 | -74.0131898 | attraction | 
+ | 80 South Street | 40.7056076 | -74.0043915 | attraction | 
+ | Access High Line Park | 40.7523844 | -74.0018026 | attraction | 
+ | American Icon | 40.7172272 | -74.0035301 | attraction | 
+ | Anton Kern Gallery | 40.7611132 | -73.9739449 | attraction | 
+ | Archibalds Townhouse | 40.7733291 | -73.9656246 | attraction | 
+ | Arguably the best location to see evening Manhattan Henge | 40.7471958 | -73.9812647 | attraction | 
+ | BAC | 40.7560503 | -73.9973055 | attraction | 
+ | Barthmans Sidewalk Clock | 40.7098196 | -74.0099251 | attraction | 
+ | big gay ice cream | 40.7264894 | -73.9847678 | attraction | 
+ | Bloody Angle | 40.7144199 | -73.9981297 | attraction | 
+ | Bryant Park | 40.7535129 | -73.9839079 | attraction | 
+ | California Sea Lion | 40.7678191 | -73.9717588 | attraction | 
+ | Canal Street | 40.7171153 | -73.9985965 | attraction | 
+ | Canal street market | 40.718987 | -74.0008621 | attraction | 
+ | Carrie Bradshaw House | 40.7353656 | -74.0038558 | attraction | 
+ | Casa di Carrie | 40.735302 | -74.0038435 | attraction | 
+ | Chelsea | 40.7458699 | -74.0018779 | attraction | 
+ | Chelsea Flea Market | 40.7436929 | -73.9903215 | attraction | 
+ | Chelsea Market | 40.7429237 | -74.0069958 | attraction | 
+ | Chinatown | 40.7156258 | -73.9984718 | attraction | 
+ | Circle line ferrys | 40.7628258 | -74.0015777 | attraction | 
+ | Classic Car Club Manhattan | 40.7580807 | -74.0047756 | attraction | 
+ | Cocktail Kingdom | 40.7436082 | -73.9907173 | attraction | 
+ | Colonnade row | 40.7292801 | -73.9924535 | attraction | 
+ | Color Factory | 40.7258445 | -74.0062226 | attraction | 
+ | Cortlandt Alley | 40.7177394 | -74.0023028 | attraction | 
+ | Couv Led Zepp 5e album | 40.7273462 | -73.9850116 | attraction | 
+ | Curry hill | 40.7426274 | -73.9824692 | attraction | 
+ | Delacorte Musical Clock | 40.7681148 | -73.9711748 | attraction | 
+ | Diamond District | 40.7572421 | -73.9801423 | attraction | 
+ | Dream house | 40.7184995 | -74.0048345 | attraction | 
+ | Dr Nevilles I Am Legend townhouse | 40.7313957 | -73.9965692 | attraction | 
+ | Empire State Building | 40.7481629 | -73.9849958 | attraction | 
+ | Explore Chinatown Information Kiosk | 40.7173684 | -73.9992431 | attraction | 
+ | Flatiron District | 40.7410723 | -73.9896534 | attraction | 
+ | Food Truck Street | 40.7570048 | -73.9814247 | attraction | 
+ | Free Kayaking with the Downtown Boathouse | 40.6915007 | -74.0122141 | attraction | 
+ | Free Public Stargazing | 40.7725563 | -73.9835751 | attraction | 
+ | Free Public Stargazing | 40.7420581 | -74.0077867 | attraction | 
+ | Friends Building | 40.7323595 | -74.0052999 | attraction | 
+ | Gapstow bridge | 40.7669279 | -73.9738339 | attraction | 
+ | Gentoo Penguin | 40.76833 | -73.971457 | attraction | 
+ | Glen span arch | 40.7947039 | -73.9591072 | attraction | 
+ | Greenwich Village | 40.7335845 | -74.0028172 | attraction | 
+ | Grey houndiin bus stop | 40.7575015 | -73.994485 | attraction | 
+ | Grizzly Bear | 40.7684112 | -73.971913 | attraction | 
+ | Grove Court | 40.7321796 | -74.0057762 | attraction | 
+ | Hangmans Elm | 40.7318891 | -73.998611 | attraction | 
+ | High Line Access | 40.7467802 | -74.0045942 | attraction | 
+ | High Line Park | 40.7451181 | -74.0066972 | attraction | 
+ | Huddlestone arch | 40.7958355 | -73.9556352 | attraction | 
+ | Kayak Brooklyn | 40.6995561 | -73.997566 | attraction | 
+ | La casa de los Tenenbaums | 40.8237943 | -73.9465643 | attraction | 
+ | La de forest house | 40.7331991 | -73.9946773 | attraction | 
+ | Le Petit Versailles | 40.7210729 | -73.9818662 | attraction | 
+ | LES SKATEPARK | 40.7110791 | -73.9933152 | attraction | 
+ | Liz Christy Garden | 40.7242411 | -73.9921517 | attraction | 
+ | Low Line Park | 40.7203545 | -73.9871259 | attraction | 
+ | Mad about you building | 40.7346862 | -73.9946122 | attraction | 
+ | Mahayanna Buddhist Center | 40.71641 | -73.995237 | attraction | 
+ | Maison sur les toits | 40.72332 | -73.9883555 | attraction | 
+ | Mark Twain House | 40.7337058 | -73.9964593 | attraction | 
+ | Meatpacking District | 40.7409503 | -74.0075113 | attraction | 
+ | NBC Studios | 40.7591425 | -73.9796681 | attraction | 
+ | Nicholas Roerich Museum | 40.8027945 | -73.9689522 | attraction | 
+ | Nicola Tesla corner | 40.7535873 | -73.9846757 | attraction | 
+ | NY Skyride | 40.7483272 | -73.9856549 | attraction | 
+ | Original brown stone houses | 40.8230348 | -73.9474058 | attraction | 
+ | paparazzi dogman and paparazzi rabbitgirl | 40.7599935 | -73.9806283 | attraction | 
+ | Paul Nicklen Gallery | 40.7226903 | -74.0033029 | attraction | 
+ | Point de vue 17e rue | 40.7440976 | -74.0069385 | attraction | 
+ | Puffin | 40.768196 | -73.9713336 | attraction | 
+ | Red Panda | 40.7682914 | -73.9727846 | attraction | 
+ | Rockefeller Center | 40.7588448 | -73.9788005 | attraction | 
+ | Rowboat rentals | 40.7749309 | -73.9690887 | attraction | 
+ | Salmagundi club | 40.7343017 | -73.9945529 | attraction | 
+ | Schwartz Luggage Storage | 40.7552442 | -73.9945593 | attraction | 
+ | Seal | 40.7683716 | -73.9716059 | attraction | 
+ | Sea Lions | 40.767841 | -73.9717654 | attraction | 
+ | Sightseeing Pass, LLC | 40.7608187 | -73.9875915 | attraction | 
+ | Site of the Beach Pneumatic Subway | 40.7129806 | -74.0065761 | attraction | 
+ | Snow Leopard | 40.7686429 | -73.9726493 | attraction | 
+ | Snow Monkey | 40.7681797 | -73.9723113 | attraction | 
+ | SoHo | 40.7228801 | -73.9987505 | attraction | 
+ | South Street Seaport | 40.7057753 | -74.0028376 | attraction | 
+ | Spyscape | 40.7650645 | -73.9838591 | attraction | 
+ | Statue of Liberty | 40.7219912 | -73.9851473 | attraction | 
+ | Stonewall Inn | 40.7338008 | -74.0021484 | attraction | 
+ | Textile building | 40.7174627 | -74.0056679 | attraction | 
+ | The High Line | 40.753277 | -74.0034424 | attraction | 
+ | The High Line North Entrance | 40.7561135 | -74.0033107 | attraction | 
+ | The Ride | 40.7549545 | -73.9911128 | attraction | 
+ | Times Square | 40.7579511 | -73.9856026 | attraction | 
+ | Tortoise | 40.7679979 | -73.9727565 | attraction | 
+ | TriBeCa | 40.7223526 | -74.0061043 | attraction | 
+ | Tropical Zone | 40.7676312 | -73.9725255 | attraction | 
+ | Umpire rock | 40.7693619 | -73.9777798 | attraction | 
 
-
-### Yelp Distance
+### Distance to Highly Rated and Priced Businesses recorded by Yelp
 - Yelp_Highest_Priced_0 -Cluster Center
 - Yelp_Highest_Priced_1 -Cluster Center
 - Yelp_Highest_Priced_2 -Cluster Center
@@ -199,6 +168,36 @@ Everyone likes to have a place of their own that they can call home. A place whe
 - Yelp_Highest_Rated_1 -Cluster Center
 - Yelp_Highest_Rated_2 -Cluster Center
 
+### Apartment Amenities
+- bathrooms
+- bedrooms
+- latitude
+- longitude
+- price
+- interest_level
+- elevator
+- cats_allowed
+- hardwood_floors
+- dogs_allowed
+- doorman
+- dishwasher
+- no_fee
+- laundry_in_building
+- fitness_center
+- laundry_in_unit
+- roof_deck
+- outdoor_space
+- dining_room
+- high_speed_internet
+- balcony
+- swimming_pool
+- new_construction
+- terrace
+- exclusive
+- loft
+- garden_patio
+- wheelchair_access
+- common_outdoor_space
 
 
 ## Pythonic Libraries Used in this project
@@ -275,8 +274,9 @@ Package               Version
 | GetZipCodeLow.py | Created to get zipcodes from lat and long so to remove non NYC apartments from the NYC RentHop dataset using a list of valid Zip Codes / partitioned by interest level due to larger base recordset causing session timeout with Nominatim |
 | GetZipCodeMedium.py | Created to get zipcodes from lat and long so to remove non NYC apartments from the NYC RentHop dataset using a list of valid Zip Codes / partitioned by interest level due to larger base recordset causing session timeout with Nominatim |
 | GetZipCodeHigh.py | Created to get zipcodes from lat and long so to remove non NYC apartments from the NYC RentHop dataset using a list of valid Zip Codes / partitioned by interest level due to larger base recordset causing session timeout with Nominatim |
-
 | Combine_RentHop_InterestFiles.py | Combines the resulting csv files from GetZipCodeHigh/Medium/Low.py files |
+| NYCAttractionsMap.py | Creates Maps of the NYC Attractions | 
+
 | RemoveNonNYCRecords.py | Removes Non NYC apartments from master analytics dataset |
 | CalculateDistancesToNYCAttractions.py | Generates the geohash for these attractions using the Latitudes and Longitudes | 
 | FinalDataWranglingEDA.py | Final Data Wrangling, strips html, punctuation and cleans up non NYC Zipcode related apartments. | 
@@ -303,6 +303,13 @@ Heatmap Location for Top Employers In NYC
 Apartment locations contained in my NYC RentHop dataset. Note: the outliers outside of NYC - these will be removed from my final cleaned dataset.
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_ApartmentLocations_Heatmap.png?raw=true)
 Above is a heatmap of the apartments located in NYC
+
+### NYC Attractions
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Attractions.png.png?raw=true)
+NYC Attraction locations.
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Attractions_Heatmap.png?raw=true)
+Above is a heatmap of the attractions located in NYC
+
 
 ### Yelp Top Pricing and Highest Rating
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Highest_Priced_Yelp_Businesses_KMeans_Cluster.png?raw=true)
