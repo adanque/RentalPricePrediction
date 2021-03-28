@@ -44,7 +44,7 @@ Everyone likes to have a place of their own that they can call home. A place whe
 - wheelchair_access
 - common_outdoor_space
 
-### Top 40 Employers by Distance
+### Top 40 NYC Employers by Distance according to Fortune Magazine - https://fortune.com/best-workplaces-new-york/2020/search/
 | Rank | Name | Industry | Employees | World Wide Revenue | 
 | ------ | ------ | ------ | ------ | ------ | 
 | 40 | The Goldman Sachs Group, Inc. | Financial Services & Insurance | - | $36,616,000,000 | 
