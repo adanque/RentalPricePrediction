@@ -47,46 +47,47 @@ Everyone likes to have a place of their own that they can call home. A place whe
 ### Top 40 Employers by Distance
 | Rank | Name | Industry | Employees | World Wide Revenue | 
 | ------ | ------ | ------ | ------ | ------ | 
-| 40 | The Goldman Sachs Group, Inc. | Financial Services & Insurance | - | 36616000000 | 
+| 40 | The Goldman Sachs Group, Inc. | Financial Services & Insurance | - | $36,616,000,000 | 
 | 39 | Adecco Group brands | Professional Services | - | - | 
-| 38 | Live Nation Entertainment | Entertainment | 11277 | 10787800000 | 
-| 37 | Zillow | Information Technology | 5150 | 1300000000 | 
+| 38 | Live Nation Entertainment | Entertainment | 11,277 | $10,787,800,000 | 
+| 37 | Zillow | Information Technology | 5,150 | $1,300,000,000 | 
 | 36 | Blackstone | Financial Services & Insurance | - | - | 
-| 35 | Voya Financial | Financial Services & Insurance | 5835 | 8514000000 | 
-| 34 | Horizon Media | Advertising & Marketing | 1908 | - | 
-| 33 | Ernst & Young LLP | Professional Services | 260569 | 34800000000 | 
-| 32 | Protiviti | Professional Services | 3520 | 957716000 | 
-| 31 | Accenture | Professional Services | 477000 | 39573450000 | 
-| 30 | PricewaterhouseCoopers LLP | Professional Services | 250000 | 41300000000 | 
-| 29 | Dechert LLP | Professional Services | 1966 | 1021751932 | 
-| 28 | Mastercard Incorporated | Financial Services & Insurance | 14800 | 14950000000 | 
-| 27 | KPMG LLP | Professional Services | 207000 | 28960000000 | 
-| 26 | Baker Tilly Virchow Krause, LLP | Professional Services | 3558 | 630000000 | 
-| 25 | Comcast NBCUniversal | Telecommunications | 184000 | 94507000000 | 
-| 24 | Atlassian | Information Technology | - | 1210126855 | 
-| 23 | Citizens Bank | Financial Services & Insurance | - | 160000000000 | 
-| 22 | Capital One Financial Corporation | Financial Services & Insurance | 47500 | 28100000000 | 
-| 21 | Deloitte | Professional Services | 109778 | 43200000000 | 
-| 20 | Adobe | Information Technology | 21163 | 9030000000 | 
-| 19 | Cumberland Farms, Inc. | Retail | - | 3700000000 | 
-| 18 | Alston & Bird LLP | Professional Services | 1610 | 816473083 | 
-| 17 | DHL Express U.S. | Transportation | 102540 | 18197669000 | 
-| 16 | Workiva Inc. | Information Technology | 1393 | 244344000 | 
-| 15 | Dropbox | Information Technology | - | 1391700000 | 
-| 14 | Cooley LLP | Professional Services | 2311 | 1226149000 | 
-| 13 | Bain & Company | Professional Services | 10131 | - | 
-| 12 | American Express | Financial Services & Insurance | - | 40338000 | 
-| 11 | Orrick | Professional Services | 2400 | 1046000000 | 
-| 10 | Shawmut Design and Construction | Construction | - | 1440600000 | 
-| 9 | Noom, Inc. | Information Technology | 1323 | 61000000 | 
-| 8 | The Cheesecake Factory Incorporated | Hospitality | 38009 | 2332331000 | 
-| 7 | Concord Hospitality Enterprises Company | Hospitality | 5251 | 41577989 | 
-| 6 | Box, Inc. | Information Technology | 2053 | 608400000 | 
+| 35 | Voya Financial | Financial Services & Insurance | 5,835 | $8,514,000,000 | 
+| 34 | Horizon Media | Advertising & Marketing | 1,908 | - | 
+| 33 | Ernst & Young LLP | Professional Services | 260,569 | $34,800,000,000 | 
+| 32 | Protiviti | Professional Services | 3,520 | $957,716,000 | 
+| 31 | Accenture | Professional Services | 477,000 | $39,573,450,000 | 
+| 30 | PricewaterhouseCoopers LLP | Professional Services | 250,000 | $41,300,000,000 | 
+| 29 | Dechert LLP | Professional Services | 1,966 | $1,021,751,932 | 
+| 28 | Mastercard Incorporated | Financial Services & Insurance | 14,800 | $14,950,000,000 | 
+| 27 | KPMG LLP | Professional Services | 207,000 | $28,960,000,000 | 
+| 26 | Baker Tilly Virchow Krause, LLP | Professional Services | 3,558 | $630,000,000 | 
+| 25 | Comcast NBCUniversal | Telecommunications | 184,000 | $94,507,000,000 | 
+| 24 | Atlassian | Information Technology | - | $1,210,126,855 | 
+| 23 | Citizens Bank | Financial Services & Insurance | - | $160,000,000,000 | 
+| 22 | Capital One Financial Corporation | Financial Services & Insurance | 47,500 | $28,100,000,000 | 
+| 21 | Deloitte | Professional Services | 109,778 | $43,200,000,000 | 
+| 20 | Adobe | Information Technology | 21,163 | $9,030,000,000 | 
+| 19 | Cumberland Farms, Inc. | Retail | - | $3,700,000,000 | 
+| 18 | Alston & Bird LLP | Professional Services | 1,610 | $816,473,083 | 
+| 17 | DHL Express U.S. | Transportation | 102,540 | $18,197,669,000 | 
+| 16 | Workiva Inc. | Information Technology | 1,393 | $244,344,000 | 
+| 15 | Dropbox | Information Technology | - | $1,391,700,000 | 
+| 14 | Cooley LLP | Professional Services | 2,311 | $1,226,149,000 | 
+| 13 | Bain & Company | Professional Services | 10,131 | - | 
+| 12 | American Express | Financial Services & Insurance | - | $40,338,000 | 
+| 11 | Orrick | Professional Services | 2,400 | $1,046,000,000 | 
+| 10 | Shawmut Design and Construction | Construction | - | $1,440,600,000 | 
+| 9 | Noom, Inc. | Information Technology | 1,323 | $61,000,000 | 
+| 8 | The Cheesecake Factory Incorporated | Hospitality | 38,009 | $2,332,331,000 | 
+| 7 | Concord Hospitality Enterprises Company | Hospitality | 5,251 | $41,577,989 | 
+| 6 | Box, Inc. | Information Technology | 2,053 | $608,400,000 | 
 | 5 | West Monroe Partners | Professional Services | 850 | - | 
-| 4 | Wegmans Food Markets, Inc. | Retail | - | 9217331000 | 
-| 3 | Power Home Remodeling | Construction | - | 695000000 | 
-| 2 | Hulu | Media | 2261 | - | 
-| 1 | Salesforce | Information Technology | 40152 | 13280000000 | 
+| 4 | Wegmans Food Markets, Inc. | Retail | - | $9,217,331,000 | 
+| 3 | Power Home Remodeling | Construction | - | $695,000,000 | 
+| 2 | Hulu | Media | 2,261 | - | 
+| 1 | Salesforce | Information Technology | 40,152 | $13,280,000,000 | 
+
 
 
 
