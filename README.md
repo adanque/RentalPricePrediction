@@ -597,7 +597,7 @@ Above is a heatmap of the attractions located in NYC
 
 ### Yelp Top Pricing and Highest Rating
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Highest_Priced_Yelp_Businesses_KMeans_Cluster.png?raw=true)
-Plot of the KMeans clusters of Yelp Rated High Priced Businesses
+<a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_Highest_Priced_Yelp_Businesses_KMeans_Cluster_Centers.html">Plot of the KMeans clusters of Yelp Rated High Priced Businesses</a>
 
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Top_Rated_Yelp_Businesses_KMeans_Cluster_Centers.png?raw=true)
 Map of the centers of each of the KMeans clusters of Yelp Rated High Priced Businesses
