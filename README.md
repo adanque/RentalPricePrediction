@@ -586,7 +586,7 @@ Heatmap Location for Top Employers In NYC <a href="https://adanque.github.io/Pro
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_ApartmentLocations_Map.png?raw=true)
 Apartment locations contained in my NYC RentHop dataset. Note: the outliers outside of NYC - these will be removed from my final cleaned dataset.<a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_RentHop_ApartmentLocations_Map.html">Click Here for an interactive map</a>
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_ApartmentLocations_Heatmap.png?raw=true)
-Above is a heatmap of the apartments located in NYC <a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_RentHop_ApartmentLocations_Heatmap.html">Click Here for an interactive map</a>
+Above is a heatmap of the apartments located in NYC 
 
 ### NYC Attractions
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Attractions.png?raw=true)
