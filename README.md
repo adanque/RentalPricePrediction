@@ -418,7 +418,7 @@ Everyone likes to have a place of their own that they can call home. A place whe
 
 ### Distance to Highly Rated and Priced Businesses recorded by Yelp
 | Yelp Rating | Latitudes | Longitudes | 
-| ------ | ------ | ------ | ------ | 
+| ------ | ------ | ------ | 
  | Yelp_Highest_Priced_0 -Cluster Center | 40.71360594 | -74.00834961 |  
  | Yelp_Highest_Priced_1 -Cluster Center | 40.76068284 | -73.97826484 | 
  | Yelp_Highest_Priced_2 -Cluster Center | 40.73287131 | -73.99541715 | 
@@ -546,6 +546,7 @@ Package               Version
 | RandomForest.py | Model review and testing. Features Analysis and parameter tuning. | 
 
 
+## Datasets
 | NYCEmployers.csv | NYC Top Employers - https://fortune.com/best-workplaces-new-york/2020/search/ | 
 | yelp_business_data.csv | NYC Yelp Businesses  | 
 | renthopNYC_Final.csv | FinalDataSet |  
