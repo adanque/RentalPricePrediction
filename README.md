@@ -603,7 +603,7 @@ Plot of the KMeans clusters of Yelp Rated High Priced Businesses
 Map of the centers of each of the KMeans clusters of Yelp Rated High Priced Businesses
 
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Highest_Priced_Yelp_Businesses_KMeans_Cluster_Centers.png?raw=true)
-<a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_Highest_Priced_Yelp_Businesses_KMeans_Cluster_Centers.html">Plot of the KMeans clusters of the Highest Yelp Priced Businesses</a>
+Plot of the KMeans clusters of the Highest Yelp Priced Businesses. <a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_Highest_Priced_Yelp_Businesses_KMeans_Cluster_Centers.html">Clicke Here for an interactive map</a>
 
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Highest_Rated_Yelp_Businesses_KMeans_Cluster.png?raw=true)
 Plot of the KMeans clusters of the Highest Yelp Rated Businesses 
