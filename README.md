@@ -13,7 +13,26 @@ Abstract:
 Everyone likes to have a place of their own that they can call home. A place where one can rest, recharge, and relax. A place where a person can safely store their possessions. Finding such a place can be an ordeal no matter if you are a renter, a homeowner, or a landlord. As the price of any type of home is affected by many different factors. The confusing caveats are trying to understand which factors affect the value or rental price. And if the value is credible or just overly bloated to line someone’s pockets. For example, according to investopia.com there are many locations in New York where the price of a 700 square foot apartment can be between $2,900 and $3,500. (Kopp 2019). However, in Chicago, a similar sized apartment can run about $1,708. (Riley 2019). There are many factors to why the rents are so incredulously different. These include location and proximity to a desired destination. Destinations like work, Ivy league schools, or popular and highly rated clustered locations for food, drink, and entertainment. Other factors also include square footage of the space, how many bedrooms, how many bathrooms and more. As a former landlord, and apartment renter who owns his own home and works for a real estate investment trust – which is a large landlord, I hope to reveal which factors are the more directly influencing factors and predict what the rental price should be close to. I believe this will help those looking for apartments or apartment buildings to have a better sense of the cost and value before they commit to signing.
 
 ### Project Specific Questions
-- 
+- Does the location of employment affect the apartment rental price?
+
+- Does the amenities of an apartment affect price? If so, which amenities affect price?
+
+- Does the location of attractions affect price?
+
+- Does the location of Yelp reviewed businesses regarding Yelp prices affect apartment price?
+
+- Does the location of Yelp reviewed businesses regarding Yelp ratings affect apartment price?
+
+- Does the area within the borough affect price?
+
+- Does the zip code affect the price?
+
+- Does the length of the description of the apartment affect the price?
+
+- Does the location of the apartment affect price?
+
+- Does the interest level of the apartment affect price?
+
 
 ## Included Project Variables / Factors 
 
