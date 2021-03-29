@@ -37,150 +37,150 @@ Everyone likes to have a place of their own that they can call home. A place whe
 ## Included Project Variables / Factors 
 
 ### Top 40 NYC Employers by Distance according to Fortune Magazine - https://fortune.com/best-workplaces-new-york/2020/search/
-| Rank | Name | Industry | Employees | World Wide Revenue | 
-| ------ | ------ | ------ | ------ | ------ | 
-| 40 | The Goldman Sachs Group, Inc. | Financial Services & Insurance | - | $36,616,000,000 | 
-| 39 | Adecco Group brands | Professional Services | - | - | 
-| 38 | Live Nation Entertainment | Entertainment | 11,277 | $10,787,800,000 | 
-| 37 | Zillow | Information Technology | 5,150 | $1,300,000,000 | 
-| 36 | Blackstone | Financial Services & Insurance | - | - | 
-| 35 | Voya Financial | Financial Services & Insurance | 5,835 | $8,514,000,000 | 
-| 34 | Horizon Media | Advertising & Marketing | 1,908 | - | 
-| 33 | Ernst & Young LLP | Professional Services | 260,569 | $34,800,000,000 | 
-| 32 | Protiviti | Professional Services | 3,520 | $957,716,000 | 
-| 31 | Accenture | Professional Services | 477,000 | $39,573,450,000 | 
-| 30 | PricewaterhouseCoopers LLP | Professional Services | 250,000 | $41,300,000,000 | 
-| 29 | Dechert LLP | Professional Services | 1,966 | $1,021,751,932 | 
-| 28 | Mastercard Incorporated | Financial Services & Insurance | 14,800 | $14,950,000,000 | 
-| 27 | KPMG LLP | Professional Services | 207,000 | $28,960,000,000 | 
-| 26 | Baker Tilly Virchow Krause, LLP | Professional Services | 3,558 | $630,000,000 | 
-| 25 | Comcast NBCUniversal | Telecommunications | 184,000 | $94,507,000,000 | 
-| 24 | Atlassian | Information Technology | - | $1,210,126,855 | 
-| 23 | Citizens Bank | Financial Services & Insurance | - | $160,000,000,000 | 
-| 22 | Capital One Financial Corporation | Financial Services & Insurance | 47,500 | $28,100,000,000 | 
-| 21 | Deloitte | Professional Services | 109,778 | $43,200,000,000 | 
-| 20 | Adobe | Information Technology | 21,163 | $9,030,000,000 | 
-| 19 | Cumberland Farms, Inc. | Retail | - | $3,700,000,000 | 
-| 18 | Alston & Bird LLP | Professional Services | 1,610 | $816,473,083 | 
-| 17 | DHL Express U.S. | Transportation | 102,540 | $18,197,669,000 | 
-| 16 | Workiva Inc. | Information Technology | 1,393 | $244,344,000 | 
-| 15 | Dropbox | Information Technology | - | $1,391,700,000 | 
-| 14 | Cooley LLP | Professional Services | 2,311 | $1,226,149,000 | 
-| 13 | Bain & Company | Professional Services | 10,131 | - | 
-| 12 | American Express | Financial Services & Insurance | - | $40,338,000 | 
-| 11 | Orrick | Professional Services | 2,400 | $1,046,000,000 | 
-| 10 | Shawmut Design and Construction | Construction | - | $1,440,600,000 | 
-| 9 | Noom, Inc. | Information Technology | 1,323 | $61,000,000 | 
-| 8 | The Cheesecake Factory Incorporated | Hospitality | 38,009 | $2,332,331,000 | 
-| 7 | Concord Hospitality Enterprises Company | Hospitality | 5,251 | $41,577,989 | 
-| 6 | Box, Inc. | Information Technology | 2,053 | $608,400,000 | 
-| 5 | West Monroe Partners | Professional Services | 850 | - | 
-| 4 | Wegmans Food Markets, Inc. | Retail | - | $9,217,331,000 | 
-| 3 | Power Home Remodeling | Construction | - | $695,000,000 | 
-| 2 | Hulu | Media | 2,261 | - | 
-| 1 | Salesforce | Information Technology | 40,152 | $13,280,000,000 | 
+ | Rank | Name | Industry | Sites | Employees | World Wide Revenue | Latitude | Longitude | 
+ | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | 
+ | 40 | <a href="https://maps.google.com/?q=40.7078,74.0337">The Goldman Sachs Group, Inc.</a> | Financial Services & Insurance | 33 | - | $36,616,000,000 | 40.7078 | 74.0337 | 
+ | 39 | <a href="https://maps.google.com/?q=40.75299,-73.98505">Adecco Group brands</a> | Professional Services | 848 | - | - | 40.75299 | -73.98505 | 
+ | 38 | <a href="https://maps.google.com/?q=40.72393,-73.996513">Live Nation Entertainment</a> | Entertainment | 218 | 11277 | $10,787,800,000 | 40.72393 | -73.996513 | 
+ | 37 | <a href="https://maps.google.com/?q=42.72193,-73.70121">Zillow</a> | Information Technology | 23 | 5150 | $1,300,000,000 | 42.72193 | -73.70121 | 
+ | 36 | <a href="https://maps.google.com/?q=40.70569,-74.01031">Blackstone</a> | Financial Services & Insurance | 8 | - | - | 40.70569 | -74.01031 | 
+ | 35 | <a href="https://maps.google.com/?q=40.7127281,-74.0060152">Voya Financial</a> | Financial Services & Insurance | 10 | 5835 | $8,514,000,000 | 40.7127281 | -74.0060152 | 
+ | 34 | <a href="https://maps.google.com/?q=40.723664,-74.0063695">Horizon Media</a> | Advertising & Marketing | 2 | 1908 | - | 40.723664 | -74.0063695 | 
+ | 33 | <a href="https://maps.google.com/?q=40.7454587,-73.980239">Ernst & Young LLP</a> | Professional Services | 86 | 260569 | $34,800,000,000 | 40.7454587 | -73.980239 | 
+ | 32 | <a href="https://maps.google.com/?q=40.7674078,-73.9786606">Protiviti</a> | Professional Services | 34 | 3520 | $957,716,000 | 40.7674078 | -73.9786606 | 
+ | 31 | <a href="https://maps.google.com/?q=40.7254116,-74.0046937">Accenture</a> | Professional Services | - | 477000 | $39,573,450,000 | 40.7254116 | -74.0046937 | 
+ | 30 | <a href="https://maps.google.com/?q=40.7528179,-73.9799233">PricewaterhouseCoopers LLP</a> | Professional Services | 86 | 250000 | $41,300,000,000 | 40.7528179 | -73.9799233 | 
+ | 29 | <a href="https://maps.google.com/?q=40.7546279,-73.9845292">Dechert LLP</a> | Professional Services | 14 | 1966 | $1,021,751,932 | 40.7546279 | -73.9845292 | 
+ | 28 | <a href="https://maps.google.com/?q=40.7378046,-73.992529740.6988858">Mastercard Incorporated</a> | Financial Services & Insurance | 9 | 14800 | $14,950,000,000 | 40.7378046 | -73.992529740.6988858 | 
+ | 27 | <a href="https://maps.google.com/?q=40.7581203,-73.972851">KPMG LLP</a> | Professional Services | 110 | 207000 | $28,960,000,000 | 40.7581203 | -73.972851 | 
+ | 26 | <a href="https://maps.google.com/?q=40.7515073,-73.9926272">Baker Tilly Virchow Krause, LLP</a> | Professional Services | 59 | 3558 | $630,000,000 | 40.7515073 | -73.9926272 | 
+ | 25 | <a href="https://maps.google.com/?q=40.7590531,-73.9799876">Comcast NBCUniversal</a> | Telecommunications | - | 184000 | $94,507,000,000 | 40.7590531 | -73.9799876 | 
+ | 24 | <a href="https://maps.google.com/?q=40.7325184,-73.9912731">Atlassian</a> | Information Technology | - | - | $1,210,126,855 | 40.7325184 | -73.9912731 | 
+ | 23 | <a href="https://maps.google.com/?q=40.7576183,-73.9755331">Citizens Bank</a> | Financial Services & Insurance | 1182 | - | $160,000,000,000 | 40.7576183 | -73.9755331 | 
+ | 22 | <a href="https://maps.google.com/?q=40.7346072,-73.9910115">Capital One Financial Corporation</a> | Financial Services & Insurance | 691 | 47500 | $28,100,000,000 | 40.7346072 | -73.9910115 | 
+ | 21 | <a href="https://maps.google.com/?q=40.759287,-73.979808">Deloitte</a> | Professional Services | 103 | 109778 | $43,200,000,000 | 40.759287 | -73.979808 | 
+ | 20 | <a href="https://maps.google.com/?q=40.758032,-73.984832">Adobe</a> | Information Technology | 20 | 21163 | $9,030,000,000 | 40.758032 | -73.984832 | 
+ | 19 | <a href="https://maps.google.com/?q=40.723206,-73.679358">Cumberland Farms, Inc.</a> | Retail | 575 | - | $3,700,000,000 | 40.723206 | -73.679358 | 
+ | 18 | <a href="https://maps.google.com/?q=40.750799,-73.9789457">Alston & Bird LLP</a> | Professional Services | 9 | 1610 | $816,473,083 | 40.750799 | -73.9789457 | 
+ | 17 | <a href="https://maps.google.com/?q=40.6107112,-73.9765652">DHL Express U.S.</a> | Transportation | 119 | 102540 | $18,197,669,000 | 40.6107112 | -73.9765652 | 
+ | 16 | <a href="https://maps.google.com/?q=40.7427391,-73.9945858">Workiva Inc.</a> | Information Technology | 11 | 1393 | $244,344,000 | 40.7427391 | -73.9945858 | 
+ | 15 | <a href="https://maps.google.com/?q=40.7420624,-73.9918122">Dropbox</a> | Information Technology | 6 | - | $1,391,700,000 | 40.7420624 | -73.9918122 | 
+ | 14 | <a href="https://maps.google.com/?q=40.7548374,-73.9827653">Cooley LLP</a> | Professional Services | 10 | 2311 | $1,226,149,000 | 40.7548374 | -73.9827653 | 
+ | 13 | <a href="https://maps.google.com/?q=40.7548374,-73.9827653">Bain & Company</a> | Professional Services | 12 | 10131 | - | 40.7548374 | -73.9827653 | 
+ | 12 | <a href="https://maps.google.com/?q=40.71369,-74.013753">American Express</a> | Financial Services & Insurance | - | - | $40,338,000 | 40.71369 | -74.013753 | 
+ | 11 | <a href="https://maps.google.com/?q=40.7612541,-73.9787812">Orrick</a> | Professional Services | 14 | 2400 | $1,046,000,000 | 40.7612541 | -73.9787812 | 
+ | 10 | <a href="https://maps.google.com/?q=40.7608987,-73.9745124">Shawmut Design and Construction</a> | Construction | 9 | - | $1,440,600,000 | 40.7608987 | -73.9745124 | 
+ | 9 | <a href="https://maps.google.com/?q=40.7480246,-73.9947822">Noom, Inc.</a> | Information Technology | 1 | 1323 | $61,000,000 | 40.7480246 | -73.9947822 | 
+ | 8 | <a href="https://maps.google.com/?q=40.7345964,-73.8700116">The Cheesecake Factory Incorporated</a> | Hospitality | 221 | 38009 | $2,332,331,000 | 40.7345964 | -73.8700116 | 
+ | 7 | <a href="https://maps.google.com/?q=40.7057586,-74.0051334">Concord Hospitality Enterprises Company</a> | Hospitality | 104 | 5251 | $41,577,989 | 40.7057586 | -74.0051334 | 
+ | 6 | <a href="https://maps.google.com/?q=40.7429095,-73.9846081">Box, Inc.</a> | Information Technology | 4 | 2053 | $608,400,000 | 40.7429095 | -73.9846081 | 
+ | 5 | <a href="https://maps.google.com/?q=40.762015,-73.986427">West Monroe Partners</a> | Professional Services | 9 | 850 | - | 40.762015 | -73.986427 | 
+ | 4 | <a href="https://maps.google.com/?q=40.6988858,-73.978777">Wegmans Food Markets, Inc.</a> | Retail | 130 | - | $9,217,331,000 | 40.6988858 | -73.978777 | 
+ | 3 | <a href="https://maps.google.com/?q=40.7760157,-73.4238953">Power Home Remodeling</a> | Construction | 18 | - | $695,000,000 | 40.7760157 | -73.4238953 | 
+ | 2 | <a href="https://maps.google.com/?q=40.7370616,-73.9926284">Hulu</a> | Media | 7 | 2261 | - | 40.7370616 | -73.9926284 | 
+ | 1 | <a href="https://maps.google.com/?q=40.7546279,-73.9845292">Salesforce</a> | Information Technology | 59 | 40152 | $13,280,000,000 | 40.7546279 | -73.9845292 | 
 
 ### NYC Attractions
  | name | latitude | longitude | tourism | 
- | ------ | ------ | ------ | ------ | 
- | 1 World Trade Center | 40.7130055 | -74.0131898 | attraction | 
- | 80 South Street | 40.7056076 | -74.0043915 | attraction | 
- | Access High Line Park | 40.7523844 | -74.0018026 | attraction | 
- | American Icon | 40.7172272 | -74.0035301 | attraction | 
- | Anton Kern Gallery | 40.7611132 | -73.9739449 | attraction | 
- | Archibalds Townhouse | 40.7733291 | -73.9656246 | attraction | 
- | Arguably the best location to see evening Manhattan Henge | 40.7471958 | -73.9812647 | attraction | 
- | BAC | 40.7560503 | -73.9973055 | attraction | 
- | Barthmans Sidewalk Clock | 40.7098196 | -74.0099251 | attraction | 
- | big gay ice cream | 40.7264894 | -73.9847678 | attraction | 
- | Bloody Angle | 40.7144199 | -73.9981297 | attraction | 
- | Bryant Park | 40.7535129 | -73.9839079 | attraction | 
- | California Sea Lion | 40.7678191 | -73.9717588 | attraction | 
- | Canal Street | 40.7171153 | -73.9985965 | attraction | 
- | Canal street market | 40.718987 | -74.0008621 | attraction | 
- | Carrie Bradshaw House | 40.7353656 | -74.0038558 | attraction | 
- | Casa di Carrie | 40.735302 | -74.0038435 | attraction | 
- | Chelsea | 40.7458699 | -74.0018779 | attraction | 
- | Chelsea Flea Market | 40.7436929 | -73.9903215 | attraction | 
- | Chelsea Market | 40.7429237 | -74.0069958 | attraction | 
- | Chinatown | 40.7156258 | -73.9984718 | attraction | 
- | Circle line ferrys | 40.7628258 | -74.0015777 | attraction | 
- | Classic Car Club Manhattan | 40.7580807 | -74.0047756 | attraction | 
- | Cocktail Kingdom | 40.7436082 | -73.9907173 | attraction | 
- | Colonnade row | 40.7292801 | -73.9924535 | attraction | 
- | Color Factory | 40.7258445 | -74.0062226 | attraction | 
- | Cortlandt Alley | 40.7177394 | -74.0023028 | attraction | 
- | Couv Led Zepp 5e album | 40.7273462 | -73.9850116 | attraction | 
- | Curry hill | 40.7426274 | -73.9824692 | attraction | 
- | Delacorte Musical Clock | 40.7681148 | -73.9711748 | attraction | 
- | Diamond District | 40.7572421 | -73.9801423 | attraction | 
- | Dream house | 40.7184995 | -74.0048345 | attraction | 
- | Dr Nevilles I Am Legend townhouse | 40.7313957 | -73.9965692 | attraction | 
- | Empire State Building | 40.7481629 | -73.9849958 | attraction | 
- | Explore Chinatown Information Kiosk | 40.7173684 | -73.9992431 | attraction | 
- | Flatiron District | 40.7410723 | -73.9896534 | attraction | 
- | Food Truck Street | 40.7570048 | -73.9814247 | attraction | 
- | Free Kayaking with the Downtown Boathouse | 40.6915007 | -74.0122141 | attraction | 
- | Free Public Stargazing | 40.7725563 | -73.9835751 | attraction | 
- | Free Public Stargazing | 40.7420581 | -74.0077867 | attraction | 
- | Friends Building | 40.7323595 | -74.0052999 | attraction | 
- | Gapstow bridge | 40.7669279 | -73.9738339 | attraction | 
- | Gentoo Penguin | 40.76833 | -73.971457 | attraction | 
- | Glen span arch | 40.7947039 | -73.9591072 | attraction | 
- | Greenwich Village | 40.7335845 | -74.0028172 | attraction | 
- | Grey houndiin bus stop | 40.7575015 | -73.994485 | attraction | 
- | Grizzly Bear | 40.7684112 | -73.971913 | attraction | 
- | Grove Court | 40.7321796 | -74.0057762 | attraction | 
- | Hangmans Elm | 40.7318891 | -73.998611 | attraction | 
- | High Line Access | 40.7467802 | -74.0045942 | attraction | 
- | High Line Park | 40.7451181 | -74.0066972 | attraction | 
- | Huddlestone arch | 40.7958355 | -73.9556352 | attraction | 
- | Kayak Brooklyn | 40.6995561 | -73.997566 | attraction | 
- | La casa de los Tenenbaums | 40.8237943 | -73.9465643 | attraction | 
- | La de forest house | 40.7331991 | -73.9946773 | attraction | 
- | Le Petit Versailles | 40.7210729 | -73.9818662 | attraction | 
- | LES SKATEPARK | 40.7110791 | -73.9933152 | attraction | 
- | Liz Christy Garden | 40.7242411 | -73.9921517 | attraction | 
- | Low Line Park | 40.7203545 | -73.9871259 | attraction | 
- | Mad about you building | 40.7346862 | -73.9946122 | attraction | 
- | Mahayanna Buddhist Center | 40.71641 | -73.995237 | attraction | 
- | Maison sur les toits | 40.72332 | -73.9883555 | attraction | 
- | Mark Twain House | 40.7337058 | -73.9964593 | attraction | 
- | Meatpacking District | 40.7409503 | -74.0075113 | attraction | 
- | NBC Studios | 40.7591425 | -73.9796681 | attraction | 
- | Nicholas Roerich Museum | 40.8027945 | -73.9689522 | attraction | 
- | Nicola Tesla corner | 40.7535873 | -73.9846757 | attraction | 
- | NY Skyride | 40.7483272 | -73.9856549 | attraction | 
- | Original brown stone houses | 40.8230348 | -73.9474058 | attraction | 
- | paparazzi dogman and paparazzi rabbitgirl | 40.7599935 | -73.9806283 | attraction | 
- | Paul Nicklen Gallery | 40.7226903 | -74.0033029 | attraction | 
- | Point de vue 17e rue | 40.7440976 | -74.0069385 | attraction | 
- | Puffin | 40.768196 | -73.9713336 | attraction | 
- | Red Panda | 40.7682914 | -73.9727846 | attraction | 
- | Rockefeller Center | 40.7588448 | -73.9788005 | attraction | 
- | Rowboat rentals | 40.7749309 | -73.9690887 | attraction | 
- | Salmagundi club | 40.7343017 | -73.9945529 | attraction | 
- | Schwartz Luggage Storage | 40.7552442 | -73.9945593 | attraction | 
- | Seal | 40.7683716 | -73.9716059 | attraction | 
- | Sea Lions | 40.767841 | -73.9717654 | attraction | 
- | Sightseeing Pass, LLC | 40.7608187 | -73.9875915 | attraction | 
- | Site of the Beach Pneumatic Subway | 40.7129806 | -74.0065761 | attraction | 
- | Snow Leopard | 40.7686429 | -73.9726493 | attraction | 
- | Snow Monkey | 40.7681797 | -73.9723113 | attraction | 
- | SoHo | 40.7228801 | -73.9987505 | attraction | 
- | South Street Seaport | 40.7057753 | -74.0028376 | attraction | 
- | Spyscape | 40.7650645 | -73.9838591 | attraction | 
- | Statue of Liberty | 40.7219912 | -73.9851473 | attraction | 
- | Stonewall Inn | 40.7338008 | -74.0021484 | attraction | 
- | Textile building | 40.7174627 | -74.0056679 | attraction | 
- | The High Line | 40.753277 | -74.0034424 | attraction | 
- | The High Line North Entrance | 40.7561135 | -74.0033107 | attraction | 
- | The Ride | 40.7549545 | -73.9911128 | attraction | 
- | Times Square | 40.7579511 | -73.9856026 | attraction | 
- | Tortoise | 40.7679979 | -73.9727565 | attraction | 
- | TriBeCa | 40.7223526 | -74.0061043 | attraction | 
- | Tropical Zone | 40.7676312 | -73.9725255 | attraction | 
- | Umpire rock | 40.7693619 | -73.9777798 | attraction | 
+ | -------- | -------- | -------- | -------- | 
+ | 1 World Trade Center | 40.7130055 | -74.0131898 | <a href="https://maps.google.com/?q=40.7130055,-74.0131898">attraction</a> | 
+ | 80 South Street | 40.7056076 | -74.0043915 | <a href="https://maps.google.com/?q=40.7056076,-74.0043915">attraction</a> | 
+ | Access High Line Park | 40.7523844 | -74.0018026 | <a href="https://maps.google.com/?q=40.7523844,-74.0018026">attraction</a> | 
+ | American Icon | 40.7172272 | -74.0035301 | <a href="https://maps.google.com/?q=40.7172272,-74.0035301">attraction</a> | 
+ | Anton Kern Gallery | 40.7611132 | -73.9739449 | <a href="https://maps.google.com/?q=40.7611132,-73.9739449">attraction</a> | 
+ | Archibalds Townhouse | 40.7733291 | -73.9656246 | <a href="https://maps.google.com/?q=40.7733291,-73.9656246">attraction</a> | 
+ | Arguably the best location to see evening Manhattan Henge | 40.7471958 | -73.9812647 | <a href="https://maps.google.com/?q=40.7471958,-73.9812647">attraction</a> | 
+ | BAC | 40.7560503 | -73.9973055 | <a href="https://maps.google.com/?q=40.7560503,-73.9973055">attraction</a> | 
+ | Barthmans Sidewalk Clock | 40.7098196 | -74.0099251 | <a href="https://maps.google.com/?q=40.7098196,-74.0099251">attraction</a> | 
+ | big gay ice cream | 40.7264894 | -73.9847678 | <a href="https://maps.google.com/?q=40.7264894,-73.9847678">attraction</a> | 
+ | Bloody Angle | 40.7144199 | -73.9981297 | <a href="https://maps.google.com/?q=40.7144199,-73.9981297">attraction</a> | 
+ | Bryant Park | 40.7535129 | -73.9839079 | <a href="https://maps.google.com/?q=40.7535129,-73.9839079">attraction</a> | 
+ | California Sea Lion | 40.7678191 | -73.9717588 | <a href="https://maps.google.com/?q=40.7678191,-73.9717588">attraction</a> | 
+ | Canal Street | 40.7171153 | -73.9985965 | <a href="https://maps.google.com/?q=40.7171153,-73.9985965">attraction</a> | 
+ | Canal street market | 40.718987 | -74.0008621 | <a href="https://maps.google.com/?q=40.718987,-74.0008621">attraction</a> | 
+ | Carrie Bradshaw House | 40.7353656 | -74.0038558 | <a href="https://maps.google.com/?q=40.7353656,-74.0038558">attraction</a> | 
+ | Casa di Carrie | 40.735302 | -74.0038435 | <a href="https://maps.google.com/?q=40.735302,-74.0038435">attraction</a> | 
+ | Chelsea | 40.7458699 | -74.0018779 | <a href="https://maps.google.com/?q=40.7458699,-74.0018779">attraction</a> | 
+ | Chelsea Flea Market | 40.7436929 | -73.9903215 | <a href="https://maps.google.com/?q=40.7436929,-73.9903215">attraction</a> | 
+ | Chelsea Market | 40.7429237 | -74.0069958 | <a href="https://maps.google.com/?q=40.7429237,-74.0069958">attraction</a> | 
+ | Chinatown | 40.7156258 | -73.9984718 | <a href="https://maps.google.com/?q=40.7156258,-73.9984718">attraction</a> | 
+ | Circle line ferrys | 40.7628258 | -74.0015777 | <a href="https://maps.google.com/?q=40.7628258,-74.0015777">attraction</a> | 
+ | Classic Car Club Manhattan | 40.7580807 | -74.0047756 | <a href="https://maps.google.com/?q=40.7580807,-74.0047756">attraction</a> | 
+ | Cocktail Kingdom | 40.7436082 | -73.9907173 | <a href="https://maps.google.com/?q=40.7436082,-73.9907173">attraction</a> | 
+ | Colonnade row | 40.7292801 | -73.9924535 | <a href="https://maps.google.com/?q=40.7292801,-73.9924535">attraction</a> | 
+ | Color Factory | 40.7258445 | -74.0062226 | <a href="https://maps.google.com/?q=40.7258445,-74.0062226">attraction</a> | 
+ | Cortlandt Alley | 40.7177394 | -74.0023028 | <a href="https://maps.google.com/?q=40.7177394,-74.0023028">attraction</a> | 
+ | Couv Led Zepp 5e album | 40.7273462 | -73.9850116 | <a href="https://maps.google.com/?q=40.7273462,-73.9850116">attraction</a> | 
+ | Curry hill | 40.7426274 | -73.9824692 | <a href="https://maps.google.com/?q=40.7426274,-73.9824692">attraction</a> | 
+ | Delacorte Musical Clock | 40.7681148 | -73.9711748 | <a href="https://maps.google.com/?q=40.7681148,-73.9711748">attraction</a> | 
+ | Diamond District | 40.7572421 | -73.9801423 | <a href="https://maps.google.com/?q=40.7572421,-73.9801423">attraction</a> | 
+ | Dream house | 40.7184995 | -74.0048345 | <a href="https://maps.google.com/?q=40.7184995,-74.0048345">attraction</a> | 
+ | Dr Nevilles I Am Legend townhouse | 40.7313957 | -73.9965692 | <a href="https://maps.google.com/?q=40.7313957,-73.9965692">attraction</a> | 
+ | Empire State Building | 40.7481629 | -73.9849958 | <a href="https://maps.google.com/?q=40.7481629,-73.9849958">attraction</a> | 
+ | Explore Chinatown Information Kiosk | 40.7173684 | -73.9992431 | <a href="https://maps.google.com/?q=40.7173684,-73.9992431">attraction</a> | 
+ | Flatiron District | 40.7410723 | -73.9896534 | <a href="https://maps.google.com/?q=40.7410723,-73.9896534">attraction</a> | 
+ | Food Truck Street | 40.7570048 | -73.9814247 | <a href="https://maps.google.com/?q=40.7570048,-73.9814247">attraction</a> | 
+ | Free Kayaking with the Downtown Boathouse | 40.6915007 | -74.0122141 | <a href="https://maps.google.com/?q=40.6915007,-74.0122141">attraction</a> | 
+ | Free Public Stargazing | 40.7725563 | -73.9835751 | <a href="https://maps.google.com/?q=40.7725563,-73.9835751">attraction</a> | 
+ | Free Public Stargazing | 40.7420581 | -74.0077867 | <a href="https://maps.google.com/?q=40.7420581,-74.0077867">attraction</a> | 
+ | Friends Building | 40.7323595 | -74.0052999 | <a href="https://maps.google.com/?q=40.7323595,-74.0052999">attraction</a> | 
+ | Gapstow bridge | 40.7669279 | -73.9738339 | <a href="https://maps.google.com/?q=40.7669279,-73.9738339">attraction</a> | 
+ | Gentoo Penguin | 40.76833 | -73.971457 | <a href="https://maps.google.com/?q=40.76833,-73.971457">attraction</a> | 
+ | Glen span arch | 40.7947039 | -73.9591072 | <a href="https://maps.google.com/?q=40.7947039,-73.9591072">attraction</a> | 
+ | Greenwich Village | 40.7335845 | -74.0028172 | <a href="https://maps.google.com/?q=40.7335845,-74.0028172">attraction</a> | 
+ | Grey houndiin bus stop | 40.7575015 | -73.994485 | <a href="https://maps.google.com/?q=40.7575015,-73.994485">attraction</a> | 
+ | Grizzly Bear | 40.7684112 | -73.971913 | <a href="https://maps.google.com/?q=40.7684112,-73.971913">attraction</a> | 
+ | Grove Court | 40.7321796 | -74.0057762 | <a href="https://maps.google.com/?q=40.7321796,-74.0057762">attraction</a> | 
+ | Hangmans Elm | 40.7318891 | -73.998611 | <a href="https://maps.google.com/?q=40.7318891,-73.998611">attraction</a> | 
+ | High Line Access | 40.7467802 | -74.0045942 | <a href="https://maps.google.com/?q=40.7467802,-74.0045942">attraction</a> | 
+ | High Line Park | 40.7451181 | -74.0066972 | <a href="https://maps.google.com/?q=40.7451181,-74.0066972">attraction</a> | 
+ | Huddlestone arch | 40.7958355 | -73.9556352 | <a href="https://maps.google.com/?q=40.7958355,-73.9556352">attraction</a> | 
+ | Kayak Brooklyn | 40.6995561 | -73.997566 | <a href="https://maps.google.com/?q=40.6995561,-73.997566">attraction</a> | 
+ | La casa de los Tenenbaums | 40.8237943 | -73.9465643 | <a href="https://maps.google.com/?q=40.8237943,-73.9465643">attraction</a> | 
+ | La de forest house | 40.7331991 | -73.9946773 | <a href="https://maps.google.com/?q=40.7331991,-73.9946773">attraction</a> | 
+ | Le Petit Versailles | 40.7210729 | -73.9818662 | <a href="https://maps.google.com/?q=40.7210729,-73.9818662">attraction</a> | 
+ | LES SKATEPARK | 40.7110791 | -73.9933152 | <a href="https://maps.google.com/?q=40.7110791,-73.9933152">attraction</a> | 
+ | Liz Christy Garden | 40.7242411 | -73.9921517 | <a href="https://maps.google.com/?q=40.7242411,-73.9921517">attraction</a> | 
+ | Low Line Park | 40.7203545 | -73.9871259 | <a href="https://maps.google.com/?q=40.7203545,-73.9871259">attraction</a> | 
+ | Mad about you building | 40.7346862 | -73.9946122 | <a href="https://maps.google.com/?q=40.7346862,-73.9946122">attraction</a> | 
+ | Mahayanna Buddhist Center | 40.71641 | -73.995237 | <a href="https://maps.google.com/?q=40.71641,-73.995237">attraction</a> | 
+ | Maison sur les toits | 40.72332 | -73.9883555 | <a href="https://maps.google.com/?q=40.72332,-73.9883555">attraction</a> | 
+ | Mark Twain House | 40.7337058 | -73.9964593 | <a href="https://maps.google.com/?q=40.7337058,-73.9964593">attraction</a> | 
+ | Meatpacking District | 40.7409503 | -74.0075113 | <a href="https://maps.google.com/?q=40.7409503,-74.0075113">attraction</a> | 
+ | NBC Studios | 40.7591425 | -73.9796681 | <a href="https://maps.google.com/?q=40.7591425,-73.9796681">attraction</a> | 
+ | Nicholas Roerich Museum | 40.8027945 | -73.9689522 | <a href="https://maps.google.com/?q=40.8027945,-73.9689522">attraction</a> | 
+ | Nicola Tesla corner | 40.7535873 | -73.9846757 | <a href="https://maps.google.com/?q=40.7535873,-73.9846757">attraction</a> | 
+ | NY Skyride | 40.7483272 | -73.9856549 | <a href="https://maps.google.com/?q=40.7483272,-73.9856549">attraction</a> | 
+ | Original brown stone houses | 40.8230348 | -73.9474058 | <a href="https://maps.google.com/?q=40.8230348,-73.9474058">attraction</a> | 
+ | paparazzi dogman and paparazzi rabbitgirl | 40.7599935 | -73.9806283 | <a href="https://maps.google.com/?q=40.7599935,-73.9806283">attraction</a> | 
+ | Paul Nicklen Gallery | 40.7226903 | -74.0033029 | <a href="https://maps.google.com/?q=40.7226903,-74.0033029">attraction</a> | 
+ | Point de vue 17e rue | 40.7440976 | -74.0069385 | <a href="https://maps.google.com/?q=40.7440976,-74.0069385">attraction</a> | 
+ | Puffin | 40.768196 | -73.9713336 | <a href="https://maps.google.com/?q=40.768196,-73.9713336">attraction</a> | 
+ | Red Panda | 40.7682914 | -73.9727846 | <a href="https://maps.google.com/?q=40.7682914,-73.9727846">attraction</a> | 
+ | Rockefeller Center | 40.7588448 | -73.9788005 | <a href="https://maps.google.com/?q=40.7588448,-73.9788005">attraction</a> | 
+ | Rowboat rentals | 40.7749309 | -73.9690887 | <a href="https://maps.google.com/?q=40.7749309,-73.9690887">attraction</a> | 
+ | Salmagundi club | 40.7343017 | -73.9945529 | <a href="https://maps.google.com/?q=40.7343017,-73.9945529">attraction</a> | 
+ | Schwartz Luggage Storage | 40.7552442 | -73.9945593 | <a href="https://maps.google.com/?q=40.7552442,-73.9945593">attraction</a> | 
+ | Seal | 40.7683716 | -73.9716059 | <a href="https://maps.google.com/?q=40.7683716,-73.9716059">attraction</a> | 
+ | Sea Lions | 40.767841 | -73.9717654 | <a href="https://maps.google.com/?q=40.767841,-73.9717654">attraction</a> | 
+ | Sightseeing Pass, LLC | 40.7608187 | -73.9875915 | <a href="https://maps.google.com/?q=40.7608187,-73.9875915">attraction</a> | 
+ | Site of the Beach Pneumatic Subway | 40.7129806 | -74.0065761 | <a href="https://maps.google.com/?q=40.7129806,-74.0065761">attraction</a> | 
+ | Snow Leopard | 40.7686429 | -73.9726493 | <a href="https://maps.google.com/?q=40.7686429,-73.9726493">attraction</a> | 
+ | Snow Monkey | 40.7681797 | -73.9723113 | <a href="https://maps.google.com/?q=40.7681797,-73.9723113">attraction</a> | 
+ | SoHo | 40.7228801 | -73.9987505 | <a href="https://maps.google.com/?q=40.7228801,-73.9987505">attraction</a> | 
+ | South Street Seaport | 40.7057753 | -74.0028376 | <a href="https://maps.google.com/?q=40.7057753,-74.0028376">attraction</a> | 
+ | Spyscape | 40.7650645 | -73.9838591 | <a href="https://maps.google.com/?q=40.7650645,-73.9838591">attraction</a> | 
+ | Statue of Liberty | 40.7219912 | -73.9851473 | <a href="https://maps.google.com/?q=40.7219912,-73.9851473">attraction</a> | 
+ | Stonewall Inn | 40.7338008 | -74.0021484 | <a href="https://maps.google.com/?q=40.7338008,-74.0021484">attraction</a> | 
+ | Textile building | 40.7174627 | -74.0056679 | <a href="https://maps.google.com/?q=40.7174627,-74.0056679">attraction</a> | 
+ | The High Line | 40.753277 | -74.0034424 | <a href="https://maps.google.com/?q=40.753277,-74.0034424">attraction</a> | 
+ | The High Line North Entrance | 40.7561135 | -74.0033107 | <a href="https://maps.google.com/?q=40.7561135,-74.0033107">attraction</a> | 
+ | The Ride | 40.7549545 | -73.9911128 | <a href="https://maps.google.com/?q=40.7549545,-73.9911128">attraction</a> | 
+ | Times Square | 40.7579511 | -73.9856026 | <a href="https://maps.google.com/?q=40.7579511,-73.9856026">attraction</a> | 
+ | Tortoise | 40.7679979 | -73.9727565 | <a href="https://maps.google.com/?q=40.7679979,-73.9727565">attraction</a> | 
+ | TriBeCa | 40.7223526 | -74.0061043 | <a href="https://maps.google.com/?q=40.7223526,-74.0061043">attraction</a> | 
+ | Tropical Zone | 40.7676312 | -73.9725255 | <a href="https://maps.google.com/?q=40.7676312,-73.9725255">attraction</a> | 
+ | Umpire rock | 40.7693619 | -73.9777798 | <a href="https://maps.google.com/?q=40.7693619,-73.9777798">attraction</a> | 
 
 ### NYC Borough Area Zip 
  | Borough | Area | Zip Code | 
