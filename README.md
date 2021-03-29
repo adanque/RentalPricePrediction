@@ -580,13 +580,13 @@ Under construction
 
 ### Top NYC Employers - https://fortune.com/best-workplaces-new-york/2020/search
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Top_Employers_Heatmap.png?raw=true)
-Heatmap Location for Top Employers In NYC
+Heatmap Location for Top Employers In NYC <a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_Top_Employers_Heatmap.html">Clicke Here for an interactive map</a>
 
 ### RentHop Inventoried Apartments
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_ApartmentLocations_Map.png?raw=true)
-Apartment locations contained in my NYC RentHop dataset. Note: the outliers outside of NYC - these will be removed from my final cleaned dataset.
+Apartment locations contained in my NYC RentHop dataset. Note: the outliers outside of NYC - these will be removed from my final cleaned dataset.<a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_RentHop_ApartmentLocations_Map.html">Clicke Here for an interactive map</a>
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_ApartmentLocations_Heatmap.png?raw=true)
-Above is a heatmap of the apartments located in NYC
+Above is a heatmap of the apartments located in NYC <a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_RentHop_ApartmentLocations_Heatmap.html">Clicke Here for an interactive map</a>
 
 ### NYC Attractions
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Attractions.png?raw=true)
@@ -600,7 +600,7 @@ Above is a heatmap of the attractions located in NYC
 Plot of the KMeans clusters of Yelp Rated High Priced Businesses
 
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Top_Rated_Yelp_Businesses_KMeans_Cluster_Centers.png?raw=true)
-Map of the centers of each of the KMeans clusters of Yelp Rated High Priced Businesses
+Map of the centers of each of the KMeans clusters of Yelp Rated High Priced Businesses<a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_Highest_Rated_Yelp_Businesses_KMeans_Cluster_Centers.html">Clicke Here for an interactive map</a>
 
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Highest_Priced_Yelp_Businesses_KMeans_Cluster_Centers.png?raw=true)
 Plot of the KMeans clusters of the Highest Yelp Priced Businesses. <a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_Highest_Priced_Yelp_Businesses_KMeans_Cluster_Centers.html">Clicke Here for an interactive map</a>
@@ -609,7 +609,7 @@ Plot of the KMeans clusters of the Highest Yelp Priced Businesses. <a href="http
 Plot of the KMeans clusters of the Highest Yelp Rated Businesses 
 
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Map_Highest_Priced_Yelp_Businesses_KMeans_Cluster_Centers.png?raw=true)
-Map of the centers of each of the KMeans clusters of the Yelp Rated Highest Priced Businesses 
+Map of the centers of each of the KMeans clusters of the Yelp Rated Highest Priced Businesses <a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_Top_Cluster_Centers.html">Clicke Here for an interactive map</a>
 
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Map_Highest_Rated_Yelp_Businesses_KMeans_Cluster_Centers.png?raw=true)
 Map of the centers of each of the KMeans clusters of the Highest Yelp Rated Businesses 
