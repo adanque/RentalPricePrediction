@@ -645,6 +645,18 @@ Pricing Outlier Detection
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Price_w90_pct_Max_Price_Excluded.png?raw=true)
 Apartment Pricing Distribution
 
+### Variable Correlation Reviews
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_1.png?raw=true)
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_10.png?raw=true)
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_2.png?raw=true)
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_3.png?raw=true)
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_4.png?raw=true)
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_5.png?raw=true)
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_6.png?raw=true)
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_7.png?raw=true)
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_8.png?raw=true)
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_9.png?raw=true)
+
 ## Data Sources
  | RentHop | NYC Apartments Inventory | https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data | 
  | Yelp | Collection of NYC Business Ratings and Prices | https://www.yelp.com/dataset | 
