@@ -646,8 +646,8 @@ Pricing Outlier Detection
 Apartment Pricing Distribution
 
 ### Variable Correlation Reviews
-![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_1.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_10.png?raw=true)
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_1.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_2.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_3.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_4.png?raw=true)
