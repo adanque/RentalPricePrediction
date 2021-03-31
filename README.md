@@ -660,8 +660,7 @@ Apartment Pricing Distribution
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_7.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_8.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_9.png?raw=true)
-![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_Final.png?raw=true)
-After analyzing the variables, I was able to synthesize a predictor variable that has a nice relationship with my price variable. 
+
 
 ## Data Sources
  | RentHop | NYC Apartments Inventory | https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data | 
