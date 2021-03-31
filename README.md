@@ -575,7 +575,10 @@ Package               Version
 
 
 ## Results
-Under construction
+Under construction! This project currently in progress.
+
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Accuracy_MAE_Results.png?raw=true)
+Model results are looking pretty interesting!
 
 ## Maps
 
