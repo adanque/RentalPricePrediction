@@ -1,5 +1,9 @@
-
 """
+Author: Alan Danque
+Date:   20210323
+Purpose:Gets zip codes using the latitude and longitude. Then removes those rows that are not in NYC.
+Complete: --- 6.707104444503784 seconds has passed ---
+
 https://www.gps-coordinates.net/
 https://moneyinc.com/the-20-biggest-employers-in-nyc/
 https://fortune.com/best-workplaces-new-york/2020/search/
