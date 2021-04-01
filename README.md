@@ -1,6 +1,6 @@
 # New York Apartment Rental Price Prediction
 
-## _Predicting Rental Prices in NYC - Evaluating Price Factors !!!Under Construction - Currently in progress!!!_
+## _Predicting Rental Prices in NYC - Evaluating Price Factors !!! Project currently in progress!!!_
 
 <a href="https://www.linkedin.com/in/alandanque"> Author: Alan Danque </a>
 
@@ -575,7 +575,7 @@ Package               Version
 
 
 ## Results
-Under construction! This project currently in progress.
+This project currently in progress.
 
 ### Accuracy and MAE
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Accuracy_MAE_Results.png?raw=true)
