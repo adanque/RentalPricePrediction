@@ -577,8 +577,9 @@ Package               Version
 ## Results
 Under construction! This project currently in progress.
 
+### Accuracy and MAE
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Accuracy_MAE_Results.png?raw=true)
-Model results are looking pretty interesting!
+Model Accuracy and MAE results are looking pretty interesting!
 
 ## Maps
 
@@ -660,8 +661,6 @@ Apartment Pricing Distribution
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_7.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_8.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_9.png?raw=true)
-
-### Accuracy and MAE
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Final_Variable_Relationship_Review.png?raw=true)
 After analyzing the 183 variables, I was able to synthesize a set of variables that has created a nice relationship with my price variable that is returning a predictive accuracy of 99.39%. 
 
