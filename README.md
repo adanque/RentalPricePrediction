@@ -604,11 +604,14 @@ Package               Version
 | CalculateDistancesToNYCAttractions.py | Generates the geohash for these attractions using the Latitudes and Longitudes | 
 | RemoveNonNYCRecords.py | Removes Non NYC apartments from master analytics dataset |
 | BoroughZips.py | Updates the Borough along with Borough Area Name using ZipCode. Adds numeric code for each. | 
-
 | FinalDataWranglingEDA.py | Final Data Wrangling, strips html, punctuation and cleans up non NYC Zipcode related apartments. | 
+
 | VariableCorrelationReview.py | Variable Correlation Analysis using the master analytics dataset | 
 | RandomForest.py | Model review and testing. Features Analysis and parameter tuning. | 
-
+| HyperparameterTuning.py | Model review and testing. Features Analysis and parameter tuning. | 
+| DecisionTree.py | Visualize the Decision Tree for explainability. | 
+| FeatureImportance.py | Feature Reviews. | 
+| Prediction.py | Prediction Reviews. | 
 
 ## Datasets
 | NYCEmployers.csv | NYC Top Employers - https://fortune.com/best-workplaces-new-york/2020/search/ | 
@@ -617,7 +620,9 @@ Package               Version
 
 
 ## Results
-This project currently in progress.
+![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Top_15_Rental_Prediction_Features.png?raw=true)
+The above displays the top 15 features contributing to rental price predictions.
+Indicating that the following are important: location, amenities, the length of the apartment description, proximity to attractions and employers.
 
 ### Accuracy and MAE
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Accuracy_MAE_Results.png?raw=true)
