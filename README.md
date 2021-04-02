@@ -481,12 +481,12 @@ Everyone likes to have a place of their own that they can call home. A place whe
 ### Distance to Highly Rated and Priced Businesses recorded by Yelp
 | Yelp Rating | Latitudes | Longitudes | 
 | ------ | ------ | ------ | 
- | Yelp_Highest_Priced_0 -Cluster Center | 40.71360594 | -74.00834961 |  
- | Yelp_Highest_Priced_1 -Cluster Center | 40.76068284 | -73.97826484 | 
- | Yelp_Highest_Priced_2 -Cluster Center | 40.73287131 | -73.99541715 | 
- | Yelp_Highest_Rated_0 -Cluster Center | 40.71570017 | -74.00162143 | 
- | Yelp_Highest_Rated_1 -Cluster Center | 40.80175434 | -73.94419938 | 
- | Yelp_Highest_Rated_2 -Cluster Center | 40.76213922 | -73.98069774 | 
+ | <a href="https://maps.google.com/?q=40.71360594,-74.00834961">Yelp_Highest_Priced_0 -Cluster Center</a> | 40.71360594 | -74.00834961 |  
+ | <a href="https://maps.google.com/?q=40.76068284,-73.97826484">Yelp_Highest_Priced_1 -Cluster Center</a> | 40.76068284 | -73.97826484 | 
+ | <a href="https://maps.google.com/?q=40.73287131,-73.99541715">Yelp_Highest_Priced_2 -Cluster Center</a> | 40.73287131 | -73.99541715 | 
+ | <a href="https://maps.google.com/?q=40.71570017,-74.00162143">Yelp_Highest_Rated_0 -Cluster Center</a> | 40.71570017 | -74.00162143 | 
+ | <a href="https://maps.google.com/?q=40.80175434,-73.94419938">Yelp_Highest_Rated_1 -Cluster Center</a> | 40.80175434 | -73.94419938 | 
+ | <a href="https://maps.google.com/?q=40.76213922,-73.98069774">Yelp_Highest_Rated_2 -Cluster Center</a> | 40.76213922 | -73.98069774 | 
 
 ### Apartment Description 
 - Length of the apartment description
