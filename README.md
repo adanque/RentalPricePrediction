@@ -35,6 +35,12 @@ Everyone likes to have a place of their own that they can call home. A place whe
 
 
 ## Included Project Variables / Factors 
+### Project Dataset:
+- Type:		CSV
+- Columns: 	184
+- Rows:		33,986
+
+
  | Feature | Definition | 
  | --------- | --------- | 
  | bathrooms | RentHop - Number of bathrooms | 
@@ -697,7 +703,7 @@ Apartment Pricing Distribution
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_8.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_9.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Final_Variable_Relationship_Review.png?raw=true)
-After analyzing the 183 variables, I was able to synthesize a set of variables that has created a nice relationship with my price variable that is returning a predictive accuracy between 83-87%. 
+After analyzing the 184 variables, I was able to synthesize a set of variables that has created a nice relationship with my price variable that is returning a predictive accuracy between 83-87%. 
 However, I believe I can synthesize more features to reduce my Mean Absolute Error as it is currently between 563-1346.
 
 ## Data Sources
