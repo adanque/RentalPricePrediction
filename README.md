@@ -701,13 +701,15 @@ After analyzing the 183 variables, I was able to synthesize a set of variables t
 However, I believe I can synthesize more features to reduce my Mean Absolute Error as it is currently between 563-1346.
 
 ## Data Sources
- | RentHop | NYC Apartments Inventory | https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data | 
- | Yelp | Collection of NYC Business Ratings and Prices | https://www.yelp.com/dataset | 
- | Fortune | NYC List of top 40 Employers | https://fortune.com/best-workplaces-new-york/2020/search/ | 
- | Pluto | NYC Borough Location Area Information | https://www1.nyc.gov/ | 
- | Mygeodata | NYC Location of Attractions | https://mygeodata.cloud/ | 
- | Zip Codes | NYC Zip Codes | https://worldpostalcode.com/united-states/new-york/new-york-city | 
- | Boroughs Area Names | Borough by Zip Code | https://www.nycbynatives.com/nyc_info/new_york_city_zip_codes.php & https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0194799/1/pone.0194799.s001.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210328%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210328T203603Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=91b1ec1a775a9e750bc63a5cd5d7bc1e36ebba6f7271f16239ef3bf4fb44a025c106d9737e6bc6b88a4e1402ece330e70790ec33e25622be67c35e409e637a4b763cb2461a5b037bf23bc3ab415791fd625225cffbeac605de27991074666cf5a8acb1a0b428e2e7f71d383dfdfc3aaabada40e2aadd923a3ae48fc4da6e4e42fec97bc62ac32a84e05b9cfb9f269c10e600859b0f0a6ce5ac4cf04c7eef0e57d47ba99eac61b04a70ccdeff079a33ee0156343794d022edad687477934124d775295d416026a1bd31d0fd44da85820a2758b6034cd284f1bbbcc6e565918cb2cbbf35441ba1d0221691732c2047bb7d11d53f0ac5309ea2616c5adab80dff96 |
+| Source  | Description | URL |
+| ------ | ------ | ------ |
+| RentHop | NYC Apartments Inventory | https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data | 
+| Yelp | Collection of NYC Business Ratings and Prices | https://www.yelp.com/dataset | 
+| Fortune | NYC List of top 40 Employers | https://fortune.com/best-workplaces-new-york/2020/search/ | 
+| Pluto | NYC Borough Location Area Information | https://www1.nyc.gov/ | 
+| Mygeodata | NYC Location of Attractions | https://mygeodata.cloud/ | 
+| Zip Codes | NYC Zip Codes | https://worldpostalcode.com/united-states/new-york/new-york-city | 
+| Boroughs Area Names | Borough by Zip Code | https://www.nycbynatives.com/nyc_info/new_york_city_zip_codes.php & https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0194799/1/pone.0194799.s001.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210328%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210328T203603Z&X-Goog-Expires=3600&X-Goog-SignedHeaders=host&X-Goog-Signature=91b1ec1a775a9e750bc63a5cd5d7bc1e36ebba6f7271f16239ef3bf4fb44a025c106d9737e6bc6b88a4e1402ece330e70790ec33e25622be67c35e409e637a4b763cb2461a5b037bf23bc3ab415791fd625225cffbeac605de27991074666cf5a8acb1a0b428e2e7f71d383dfdfc3aaabada40e2aadd923a3ae48fc4da6e4e42fec97bc62ac32a84e05b9cfb9f269c10e600859b0f0a6ce5ac4cf04c7eef0e57d47ba99eac61b04a70ccdeff079a33ee0156343794d022edad687477934124d775295d416026a1bd31d0fd44da85820a2758b6034cd284f1bbbcc6e565918cb2cbbf35441ba1d0221691732c2047bb7d11d53f0ac5309ea2616c5adab80dff96 |
 
 ## References: 
 
