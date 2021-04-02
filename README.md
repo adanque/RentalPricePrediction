@@ -35,6 +35,41 @@ Everyone likes to have a place of their own that they can call home. A place whe
 
 
 ## Included Project Variables / Factors 
+ | Feature | Definition | 
+ | --------- | --------- | 
+ | bathrooms | RentHop - Number of bathrooms | 
+ |  bedrooms | RentHop - Number of bedrooms | 
+ |  latitude | RentHop - Latitude | 
+ |  longitude | RentHop - Longitude | 
+ |  elevator | RentHop - Elevator available 1 yes, 0 no | 
+ |  cats_allowed | RentHop - Cats allowed 1 yes, 0 no | 
+ |  hardwood_floors | RentHop - Hardwood floors 1 yes, 0 no | 
+ |  dogs_allowed | RentHop - Cats allowed 1 yes 0 no | 
+ |  doorman | RentHop - Doorman available 1 yes, 0 no | 
+ |  dishwasher | RentHop - Dishwasher available 1 yes, 0 no | 
+ |  no_fee | RentHop - No down payment available 1 yes, 0 no | 
+ |  laundry_in_building | RentHop - Laundry in premise available 1 yes, 0 no | 
+ |  fitness_center | RentHop - Fitness center on premise available 1 yes, 0 no | 
+ |  laundry_in_unit | RentHop - Laundry in apartment available 1 yes, 0 no | 
+ |  roof_deck | RentHop - Roof deck available 1 yes, 0 no | 
+ |  outdoor_space | RentHop - Private outdoor space available 1 yes, 0 no | 
+ |  dining_room | RentHop - Dining room available 1 yes, 0 no | 
+ |  high_speed_internet | RentHop - High Speed Internet available 1 yes, 0 no | 
+ |  balcony | RentHop - Balcony available 1 yes, 0 no | 
+ |  swimming_pool | RentHop - Swimming pool available 1 yes, 0 no | 
+ |  new_construction | RentHop - Is it new construction 1 year 1 yes, 0 no | 
+ |  terrace | RentHop - Terrace available 1 yes, 0 no | 
+ |  exclusive | RentHop - Exclusive Offer available 1 yes, 0 no | 
+ |  loft | RentHop - Loft apartment 1 yes, 0 no | 
+ |  garden_patio | RentHop - Garden Patio available 1 yes, 0 no | 
+ |  wheelchair_access | RentHop - Wheel chair access available 1 yes, 0 no | 
+ |  common_outdoor_space | RentHop - Common outdoor space available 1 yes, 0 no | 
+ |  interest_level_val | RentHop - Renthop Apartment Level of Interest | 
+ | geohash | Imputed Geohash based on Latitude and Longitude | 
+ |  borough_id | Imputed identifier for the borough id | 
+ |  borough_val | Imputed identifier for the area within the borough | 
+
+
 
 ### Top 40 NYC Employers by Distance according to Fortune Magazine - https://fortune.com/best-workplaces-new-york/2020/search/
  | Rank | Name | Industry | Sites | Employees | World Wide Revenue | Latitude | Longitude | 
