@@ -557,6 +557,7 @@ Package               Version
 - pandasql              0.7.3
 - piianalyzer           0.1.0
 - pygeohash             1.2.0
+- pydot                 1.4.2
 - pyodbc                4.0.30
 - PyYAML                5.4.1
 - requests              2.25.1
