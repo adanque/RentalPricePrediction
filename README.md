@@ -605,7 +605,6 @@ Package               Version
 | RemoveNonNYCRecords.py | Removes Non NYC apartments from master analytics dataset |
 | BoroughZips.py | Updates the Borough along with Borough Area Name using ZipCode. Adds numeric code for each. | 
 | FinalDataWranglingEDA.py | Final Data Wrangling, strips html, punctuation and cleans up non NYC Zipcode related apartments. | 
-
 | VariableCorrelationReview.py | Variable Correlation Analysis using the master analytics dataset | 
 | RandomForest.py | Model review and testing. Features Analysis and parameter tuning. | 
 | HyperparameterTuning.py | Model review and testing. Features Analysis and parameter tuning. | 
