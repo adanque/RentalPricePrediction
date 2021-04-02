@@ -1,6 +1,6 @@
 # New York Apartment Rental Price Prediction
 
-## _Predicting Rental Prices in NYC - Evaluating Price Factors !!! Project currently in progress!!!_
+## _Predicting Rental Prices in NYC - Evaluating Price Factors._
 
 <a href="https://www.linkedin.com/in/alandanque"> Author: Alan Danque </a>
 
