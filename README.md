@@ -614,10 +614,12 @@ Package               Version
 | Prediction.py | Prediction Reviews. | 
 
 ## Datasets
+| File  | Description |
+| ------ | ------ |
 | NYCEmployers.csv | NYC Top Employers - https://fortune.com/best-workplaces-new-york/2020/search/ | 
 | yelp_business_data.csv | NYC Yelp Businesses  | 
-| renthopNYC_Final.csv | FinalDataSet |  
-
+| renthopNYC.csv | Renthop DataSet |  
+| FinalLeadAnalyticsRecord.csv | Final Analytics Data Set |  
 
 ## Results
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Top_15_Rental_Prediction_Features.png?raw=true)
