@@ -80,7 +80,7 @@ Everyone likes to have a place of their own that they can call home. A place whe
 ### Top 40 NYC Employers by Distance according to Fortune Magazine - https://fortune.com/best-workplaces-new-york/2020/search/
  | Rank | Name | Industry | Sites | Employees | World Wide Revenue | Latitude | Longitude | 
  | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | 
- | 40 | <a href="https://maps.google.com/?q=40.7078,74.0337">The Goldman Sachs Group, Inc.</a> | Financial Services & Insurance | 33 | - | $36,616,000,000 | 40.7078 | 74.0337 | 
+ | 40 | <a href="https://maps.google.com/?q=40.7078,-74.0337">The Goldman Sachs Group, Inc.</a> | Financial Services & Insurance | 33 | - | $36,616,000,000 | 40.7078 | 74.0337 | 
  | 39 | <a href="https://maps.google.com/?q=40.75299,-73.98505">Adecco Group brands</a> | Professional Services | 848 | - | - | 40.75299 | -73.98505 | 
  | 38 | <a href="https://maps.google.com/?q=40.72393,-73.996513">Live Nation Entertainment</a> | Entertainment | 218 | 11277 | $10,787,800,000 | 40.72393 | -73.996513 | 
  | 37 | <a href="https://maps.google.com/?q=42.72193,-73.70121">Zillow</a> | Information Technology | 23 | 5150 | $1,300,000,000 | 42.72193 | -73.70121 | 
