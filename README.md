@@ -14,25 +14,25 @@ Everyone likes to have a place of their own that they can call home. A place whe
 
 ### Project Specific Questions
 - Does the location of employment affect the apartment rental price?
-
+o	Answer: Yes, the distance does contribute to the prediction.
 - Does the amenities of an apartment affect price? If so, which amenities affect price?
-
+o	Answer: Yes, the count of bedrooms, bathrooms and if it allows dogs, has a terrace 
 - Does the location of attractions affect price?
-
+o	Answer: Yes, it does. The distance to the Umpire States building and free public stargazing affects prices.
 - Does the location of Yelp reviewed businesses regarding Yelp prices affect apartment price?
-
+o	Answer: Not as much, as the Yelp ratings.
 - Does the location of Yelp reviewed businesses regarding Yelp ratings affect apartment price?
-
+o	Answer: Yes, the central location of highly rated Yelp Businesses by the areas south of Central Park and Times Square affect price.
 - Does the area within the borough affect price?
-
+o	Answer: Not as much as specific areas within NYC.
 - Does the zip code affect the price?
-
+o	Answer: Not specifically.
 - Does the length of the description of the apartment affect the price?
-
+o	Answer: Yes, it does affect price. Thus, it is better to have a very well written description of the apartment created.
 - Does the location of the apartment affect price?
-
+o	Yes, the location per longitude and latitude affects price.
 - Does the interest level of the apartment affect price?
-
+o	Yes, the categorical level of interest does affect price.
 
 ## Included Project Variables / Factors 
 ### Project Dataset:
@@ -638,27 +638,30 @@ However, since my Renthop apartment inventory data is from 2017, my predicted pr
 ### Accuracy and MAE
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Accuracy_MAE_Results.png?raw=true)
 Model Accuracy and MAE results are looking pretty interesting!
+To measure the accuracy and loss of my model, I am using a set of my predicted values minus the actual target values between my train and test data. Then taking the mean of the absolute value of each in the set of values to divide this number by my target test values and then multiply by 100 to generate a mean absolute percentage error.  I then subtract 100 minus the mean absolute percentage error to produce accuracy metrics.
 
-## Maps
 
-### Top NYC Employers - https://fortune.com/best-workplaces-new-york/2020/search
+
+
+## Maps .. Location .. Location  .. Location
+
+### Location of Top NYC Employers - https://fortune.com/best-workplaces-new-york/2020/search
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Top_Employers_Heatmap.png?raw=true)
 Heatmap Location for Top Employers In NYC <a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_Top_Employers_Heatmap.html">Click Here for an interactive map</a>
 
-### RentHop Inventoried Apartments
+### Locations of RentHop's Inventoried Apartments
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_ApartmentLocations_Map.png?raw=true)
 Apartment locations contained in my NYC RentHop dataset. Note: the outliers outside of NYC - these will be removed from my final cleaned dataset.<a href="https://adanque.github.io/ProjectResults/PredictionApartmentRentalPrices/NYC_RentHop_ApartmentLocations_Map.html">Click Here for an interactive map</a>
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_ApartmentLocations_Heatmap.png?raw=true)
-Above is a heatmap of the apartments located in NYC 
+Above is a heatmap of the apartments located in NYC. This map helps to identify the focused areas of apartments.
 
-### NYC Attractions
+### Location of NYC Attractions
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Attractions.png?raw=true)
 NYC Attraction locations.
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Attractions_Heatmap.png?raw=true)
 Above is a heatmap of the attractions located in NYC
 
-
-### Yelp Top Pricing and Highest Rating
+### Location of Yelp's Top Pricing and Highest Rating
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Highest_Priced_Yelp_Businesses_KMeans_Cluster.png?raw=true)
 Plot of the KMeans clusters of Yelp Rated High Priced Businesses
 
@@ -677,13 +680,13 @@ Map of the centers of each of the KMeans clusters of the Yelp Rated Highest Pric
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_Map_Highest_Rated_Yelp_Businesses_KMeans_Cluster_Centers.png?raw=true)
 Map of the centers of each of the KMeans clusters of the Highest Yelp Rated Businesses 
 
-## Amenities Review
-Interest Levels
+## Apartment Amenities Review
+### Interest Levels
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Interest_Level_Pie.png?raw=true)
-RentHop Apartment Review Level Breakdown
+RentHop Apartment Review Level Breakdown. This chart shares the story of the higher inventory of lesser desired apartments over the more desired.
 
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Interest_Level_Review.png?raw=true)
-RentHop Apartment Review Level Distribution
+RentHop Apartment Review Level Distribution. This chart displays the inventory of by bedroom counts and their related interest level. It shows that the low interest group has the most apartments in each category of bedroom count.
 
 ### Bedrooms
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/NYC_RentHop_Bedrooms_Breakdown_by_Interest.png?raw=true)
@@ -709,7 +712,6 @@ Pricing Outlier Detection
 Apartment Pricing Distribution
 
 ### Variable Correlation Reviews
-![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_10.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_1.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_2.png?raw=true)
 ![A remote image](https://github.com/adanque/RentalPricePrediction/blob/main/results/Variable_Relationship_Review_3.png?raw=true)
