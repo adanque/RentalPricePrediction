@@ -14,25 +14,25 @@ Everyone likes to have a place of their own that they can call home. A place whe
 
 ### Project Specific Questions
 - Does the location of employment affect the apartment rental price?
-o	Answer: Yes, the distance does contribute to the prediction.
+	- Answer: Yes, the distance does contribute to the prediction.
 - Does the amenities of an apartment affect price? If so, which amenities affect price?
-o	Answer: Yes, the count of bedrooms, bathrooms and if it allows dogs, has a terrace 
+	- Answer: Yes, the count of bedrooms, bathrooms and if it allows dogs, has a terrace 
 - Does the location of attractions affect price?
-o	Answer: Yes, it does. The distance to the Umpire States building and free public stargazing affects prices.
+	- Answer: Yes, it does. The distance to the Umpire States building and free public stargazing affects prices.
 - Does the location of Yelp reviewed businesses regarding Yelp prices affect apartment price?
-o	Answer: Not as much, as the Yelp ratings.
+	- Answer: Not as much, as the Yelp ratings.
 - Does the location of Yelp reviewed businesses regarding Yelp ratings affect apartment price?
-o	Answer: Yes, the central location of highly rated Yelp Businesses by the areas south of Central Park and Times Square affect price.
+	- Answer: Yes, the central location of highly rated Yelp Businesses by the areas south of Central Park and Times Square affect price.
 - Does the area within the borough affect price?
-o	Answer: Not as much as specific areas within NYC.
+	- Answer: Not as much as specific areas within NYC.
 - Does the zip code affect the price?
-o	Answer: Not specifically.
+	- Answer: Not specifically.
 - Does the length of the description of the apartment affect the price?
-o	Answer: Yes, it does affect price. Thus, it is better to have a very well written description of the apartment created.
+	- Answer: Yes, it does affect price. Thus, it is better to have a very well written description of the apartment created.
 - Does the location of the apartment affect price?
-o	Yes, the location per longitude and latitude affects price.
+	- Yes, the location per longitude and latitude affects price.
 - Does the interest level of the apartment affect price?
-o	Yes, the categorical level of interest does affect price.
+	- Yes, the categorical level of interest does affect price.
 
 ## Included Project Variables / Factors 
 ### Project Dataset:
