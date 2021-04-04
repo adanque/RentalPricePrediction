@@ -763,4 +763,4 @@ Villar, B. (April 2020). Machine Learning and RealState: Predicting Rental Price
 Najera, C. Hunter, T. Zhan, D. Bialer, J. (March 2017). Predicting Interest for NYC Apartment Rental Listings - A Guideline For Landlors and Agents. Retrieved from https://nycdatascience.com/blog/student-works/predicting-interest-nyc-apartments-rent-guideline-landlords/
 
 
-
+/play pushit
