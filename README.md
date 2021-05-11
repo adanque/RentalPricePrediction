@@ -56,13 +56,12 @@ Everyone likes to have a place of their own that they can call home. A place whe
 
 10.	Perform final test with predictions.
 
-
-## Included Project Variables / Factors 
 ### Project Dataset:
 - Type:		CSV
 - Columns: 	184
 - Rows:		33,986
 
+## Included Project Variables / Factors 
 
  | Feature / Factors | Definition | 
  | --------- | --------- | 
@@ -98,7 +97,7 @@ Everyone likes to have a place of their own that they can call home. A place whe
  |  borough_id | Imputed identifier for the borough id | 
  |  borough_val | Imputed identifier for the area within the borough | 
 
-
+## Additional combined dataset variables
 
 ### Top 40 NYC Employers by Distance according to Fortune Magazine - https://fortune.com/best-workplaces-new-york/2020/search/
  | Rank | Name | Industry | Sites | Employees | World Wide Revenue | Latitude | Longitude | 
@@ -143,6 +142,8 @@ Everyone likes to have a place of their own that they can call home. A place whe
  | 3 | <a href="https://maps.google.com/?q=40.7760157,-73.4238953">Power Home Remodeling</a> | Construction | 18 | - | $695,000,000 | 40.7760157 | -73.4238953 | 
  | 2 | <a href="https://maps.google.com/?q=40.7370616,-73.9926284">Hulu</a> | Media | 7 | 2261 | - | 40.7370616 | -73.9926284 | 
  | 1 | <a href="https://maps.google.com/?q=40.7546279,-73.9845292">Salesforce</a> | Information Technology | 59 | 40152 | $13,280,000,000 | 40.7546279 | -73.9845292 | 
+
+## Additional combined dataset variables
 
 ### NYC Attractions
  | name | latitude | longitude | tourism | 
@@ -246,7 +247,7 @@ Everyone likes to have a place of their own that they can call home. A place whe
  | <a href="https://maps.google.com/?q=40.7676312,-73.9725255">Tropical Zone</a> | 40.7676312 | -73.9725255 | attraction | 
  | <a href="https://maps.google.com/?q=40.7693619,-73.9777798">Umpire rock</a> | 40.7693619 | -73.9777798 | attraction | 
 
-
+## Additional combined dataset variables
 
 ### NYC Borough Area Zip 
  | Borough | Area | Zip Code | 
@@ -500,6 +501,7 @@ Everyone likes to have a place of their own that they can call home. A place whe
  | Queens | Rockaways | 11695 | 
  | Queens | Rockaways | 11697 | 
 
+## Additional combined dataset variables
 
 ### Distance to Highly Rated and Priced Businesses recorded by Yelp
 | Yelp Rating | Latitudes | Longitudes | 
@@ -511,8 +513,12 @@ Everyone likes to have a place of their own that they can call home. A place whe
  | <a href="https://maps.google.com/?q=40.80175434,-73.94419938">Yelp_Highest_Rated_2 -Cluster Center</a> | 40.80175434 | -73.94419938 | 
  | <a href="https://maps.google.com/?q=40.76213922,-73.98069774">Yelp_Highest_Rated_3 -Cluster Center</a> | 40.76213922 | -73.98069774 | 
 
+## Additional combined dataset variables
+
 ### Apartment Description 
 - Length of the apartment description
+
+## Additional combined dataset variables
 
 ### Apartment Amenities
 - bathrooms
