@@ -34,9 +34,7 @@ Everyone likes to have a place of their own that they can call home. A place whe
 - Does the interest level of the apartment affect price?
 	- Yes, the categorical level of interest does affect price.
 
-### Method:
-
-The strategized steps of my project are as follows:
+### Methods used in my project
 
 1.	Obtain relevant data that I would review as both an apartment lease and a landlord. These include apartment data, highly rated and reviewed Yelp reviewed business locations, zip codes for each NYC borough area, top employers with high revenue and size in number of employees and NYC attraction locations.
 
