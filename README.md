@@ -34,6 +34,31 @@ Everyone likes to have a place of their own that they can call home. A place whe
 - Does the interest level of the apartment affect price?
 	- Yes, the categorical level of interest does affect price.
 
+### Method:
+
+The strategized steps of my project are as follows:
+
+1.	Obtain relevant data that I would review as both an apartment lease and a landlord. These include apartment data, highly rated and reviewed Yelp reviewed business locations, zip codes for each NYC borough area, top employers with high revenue and size in number of employees and NYC attraction locations.
+
+2.	Generate new features as distances from each apartment to each location.
+
+3.	Analyze the distribution of my values. Review how my variables relate to each other to understand which affect each other.
+
+4.	Synthesize new features that allow for a sense of contributing factors toward price fluctuation using my other obtained variables.
+
+5.	Revisit reviews of how my features correlate.
+
+6.	Train my model using sklearn’s ensemble RandomForestRegressor algorithm to generate my model and test it multiple times using sklearn KFold while measuring accuracy and loss at each iteration.
+
+7.	Perform hyperparameter tuning reviews using RandomizedSearchCV to identify best weights to use. Then retrain and re-evaluate.
+
+8.	Generate visualizations of the decision tree for explain-ability.
+
+9.	Export and review the important features from my model.
+
+10.	Perform final test with predictions.
+
+
 ## Included Project Variables / Factors 
 ### Project Dataset:
 - Type:		CSV
